@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+/* eslint-disable no-console */
 /**
  * 제휴링크 중앙 저장소(playskang-svg/affiliatelink)를 이 사이트로 동기화한다.
  *
