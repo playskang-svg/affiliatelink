@@ -1,0 +1,2124 @@
+{
+  "$schema": "https://adbles.com/schema/affiliate-links-v1.json",
+  "version": "2026.09.05-04",
+  "build": "a35f977d",
+  "updated": "2026-09-11",
+  "link_count": 103,
+  "note": "A-Factory 제휴링크 단일 소스. 사람이 읽는 문서는 affiliate-link.md. 코드에서는 이 JSON을 import해서 link_key로 조회한다. 어느 키워드에 어느 링크를 붙일지는 각 링크의 keywords 필드와 isatipsadbles/lib/affiliate-match.ts의 매칭 규칙을 기준으로 한다.",
+  "partner_id": "A100702444",
+  "links": [
+    {
+      "key": "vpn-nordvpn",
+      "category": "vpn",
+      "label": "노드VPN",
+      "cta": "NordVPN 요금 확인하기",
+      "url": "https://lpweb.kr/click.php?m=nordvpn2&a=A100702444&l=0000",
+      "network": "lpweb.kr",
+      "status": "active",
+      "updated": "2026-09-05",
+      "keywords": [
+        "VPN 추천",
+        "노드VPN 요금",
+        "해외 VPN"
+      ]
+    },
+    {
+      "key": "vpn-expressvpn",
+      "category": "vpn",
+      "label": "익스프레스VPN",
+      "cta": "ExpressVPN 요금 확인하기",
+      "url": "https://lpweb.kr/click.php?m=exvpn&a=A100702444&l=9999&l_cd1=3&l_cd2=0&tu=https%3A%2F%2Fwww.expressvpn.com%2Fkr%2Fpricing%3Fproduct_type%3Dvpn",
+      "network": "lpweb.kr",
+      "status": "active",
+      "updated": "2026-09-05",
+      "keywords": [
+        "VPN 추천",
+        "익스프레스VPN 요금",
+        "해외 VPN"
+      ]
+    },
+    {
+      "key": "vpn-surfshark",
+      "category": "vpn",
+      "label": "서프샤크",
+      "cta": "Surfshark 요금 확인하기",
+      "url": "https://linkmoa.kr/click.php?m=surfshark&a=A100702444&l=0000",
+      "network": "linkmoa.kr",
+      "status": "active",
+      "updated": "2026-09-05",
+      "keywords": [
+        "VPN 추천",
+        "서프샤크 요금",
+        "저렴한 VPN"
+      ]
+    },
+    {
+      "key": "move-compare-multi",
+      "category": "moving",
+      "label": "서경석의 이사방 청소서비스",
+      "cta": "서경석의 이사방 청소서비스 무료 견적 받기",
+      "url": "https://ocayn.info/t7rujwdigo",
+      "merchant": "서경석의 이사방 청소서비스",
+      "network": "tenping",
+      "campaign_type": "CPA 참여형",
+      "campaign_id": "2024071216400001",
+      "payout": "건당 8,333원",
+      "conversion": "견적/상담 신청 완료",
+      "min_approval": "60%",
+      "verify_period": "3영업일",
+      "status": "collected",
+      "keywords": [
+        "이사청소",
+        "입주청소 상담",
+        "청소서비스"
+      ],
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05",
+      "aka": "이사방 청소서비스",
+      "issue": "캠페인 실체는 \"서경석의 이사방 청소서비스\"(청소 CPA, 8,333원). 이사업체 비교 앵커로 쓰면 키워드 불일치. 청소는 단가 높은 move-cleaning 사용."
+    },
+    {
+      "key": "move-compare-2",
+      "category": "moving",
+      "label": "이사마켓",
+      "cta": "이사마켓 무료 견적 받기",
+      "url": "https://ocayn.info/t8gy97bt69",
+      "merchant": "이사마켓",
+      "network": "tenping",
+      "campaign_type": "CPA 참여형",
+      "campaign_id": "2019062817160001",
+      "payout": "건당 20,750원",
+      "conversion": "견적/상담 신청 완료",
+      "min_approval": "60%",
+      "verify_period": "3영업일",
+      "status": "active",
+      "keywords": [
+        "이사견적",
+        "이사업체비교",
+        "이사비용",
+        "포장이사 견적",
+        "아파트 이사",
+        "빌라 이사"
+      ],
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05",
+      "aka": "이사 2곳 견적 비교"
+    },
+    {
+      "key": "move-packing",
+      "category": "moving",
+      "label": "모두이사",
+      "cta": "모두이사 무료 견적 받기",
+      "url": "https://ocayn.info/t7rujwdigl",
+      "merchant": "모두이사",
+      "network": "tenping",
+      "campaign_type": "CPA 참여형",
+      "campaign_id": "2018121017390001",
+      "payout": "건당 19,200원",
+      "conversion": "견적/상담 신청 완료",
+      "min_approval": "60%",
+      "verify_period": "7영업일",
+      "status": "active",
+      "keywords": [
+        "포장이사",
+        "포장이사 비용",
+        "포장이사 견적",
+        "맞춤 비교견적",
+        "신축 입주이사"
+      ],
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05",
+      "aka": "포장이사 전문"
+    },
+    {
+      "key": "move-cleaning",
+      "category": "moving",
+      "label": "청소대장 두식이",
+      "cta": "청소대장 두식이 무료 견적 받기",
+      "url": "https://ocayn.info/t8g28gdow0",
+      "merchant": "청소대장 두식이",
+      "network": "tenping",
+      "campaign_type": "CPA 참여형",
+      "campaign_id": "2026080417170001",
+      "payout": "건당 19,500원",
+      "conversion": "견적/상담 신청 완료",
+      "min_approval": "100%",
+      "verify_period": "3영업일",
+      "status": "active",
+      "keywords": [
+        "입주청소",
+        "이사청소",
+        "새집증후군",
+        "입주청소 비용",
+        "신축 입주청소"
+      ],
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05",
+      "aka": "이사 청소 전문"
+    },
+    {
+      "key": "move-cleaning-compare",
+      "category": "moving",
+      "label": "이사·입주청소 견적 비교",
+      "cta": "이사·입주청소 견적 비교",
+      "url": "http://app.ac/vtGA0lM83",
+      "network": "app.ac",
+      "status": "retired",
+      "issue": "http + move-cleaning(청소대장 두식이, 19,500원)과 수요 중복. 2026-09-05 move-cleaning으로 통합.",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "repair-install",
+      "category": "repair",
+      "label": "설치·수리 견적 비교",
+      "cta": "설치·수리 견적 비교",
+      "url": "http://app.ac/jjw6cka73",
+      "network": "app.ac",
+      "status": "retired",
+      "issue": "http. 2026-09-05 숨고 https 키워드 딥링크(repair-soomgo-*)로 전량 대체.",
+      "updated": "2026-09-05",
+      "keywords": [
+        "설치 수리 견적",
+        "집수리 견적",
+        "원상복구 견적",
+        "문 수리 업체",
+        "수전 교체 업체"
+      ]
+    },
+    {
+      "key": "repair-install-aircon",
+      "category": "repair",
+      "label": "에어컨·벽걸이TV 설치·수리",
+      "cta": "설치·수리 견적 확인",
+      "url": "http://app.ac/63MI0AJ93",
+      "network": "app.ac",
+      "status": "retired",
+      "issue": "http. 2026-09-05 repair-soomgo-aircon / repair-soomgo-tv-mount으로 대체.",
+      "updated": "2026-09-05",
+      "keywords": [
+        "에어컨 이전설치",
+        "에어컨 설치 비용",
+        "벽걸이TV 설치",
+        "실외기 설치"
+      ]
+    },
+    {
+      "key": "repair-move-defect",
+      "category": "repair",
+      "label": "집이사+하자보수 실시간 견적",
+      "cta": "집이사와 하자보수 실시간 견적",
+      "url": "http://app.ac/t3MIJPJ73",
+      "network": "app.ac",
+      "status": "retired",
+      "issue": "http. 2026-09-05 지역 페이지 원상복구는 repair-soomgo-leak/plumbing으로 대체.",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "repair-interior",
+      "category": "repair",
+      "label": "인테리어 사례·견적",
+      "cta": "인테리어 사례·견적 확인",
+      "url": "https://ocayn.info/t8gcget9ab",
+      "network": "tenping",
+      "status": "active",
+      "updated": "2026-09-05",
+      "keywords": [
+        "인테리어 견적",
+        "인테리어 사례",
+        "셀프 인테리어",
+        "집 꾸미기"
+      ]
+    },
+    {
+      "key": "repair-ohouse-silicone",
+      "category": "repair",
+      "label": "오늘의집 실리콘 보수",
+      "cta": "실리콘 보수 보러가기",
+      "url": "https://ocayn.info/t8g3e0kr1f",
+      "merchant": "오늘의집",
+      "network": "tenping",
+      "payout": "최대 3.2% (구매확정 당일 검증)",
+      "status": "active",
+      "keywords": [
+        "실리콘 보수",
+        "욕실 실리콘",
+        "곰팡이 실리콘 교체"
+      ],
+      "product_count": 206,
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "repair-ohouse-caulking-gun",
+      "category": "repair",
+      "label": "오늘의집 코킹건",
+      "cta": "코킹건 보러가기",
+      "url": "https://ocayn.info/t8g3e0mpg6",
+      "merchant": "오늘의집",
+      "network": "tenping",
+      "payout": "최대 3.2% (구매확정 당일 검증)",
+      "status": "collected",
+      "keywords": [
+        "코킹건",
+        "실리콘건",
+        "코킹 시공"
+      ],
+      "product_count": 118,
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "repair-ohouse-door-handle",
+      "category": "repair",
+      "label": "오늘의집 문손잡이",
+      "cta": "문손잡이 보러가기",
+      "url": "https://ocayn.info/t8g3e0mpg7",
+      "merchant": "오늘의집",
+      "network": "tenping",
+      "payout": "최대 3.2% (구매확정 당일 검증)",
+      "status": "active",
+      "keywords": [
+        "문손잡이",
+        "도어핸들",
+        "손잡이 교체"
+      ],
+      "product_count": 5842,
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "repair-ohouse-doorlock",
+      "category": "repair",
+      "label": "오늘의집 도어락",
+      "cta": "도어락 보러가기",
+      "url": "https://ocayn.info/t8g3e0mw60",
+      "merchant": "오늘의집",
+      "network": "tenping",
+      "payout": "최대 3.2% (구매확정 당일 검증)",
+      "status": "active",
+      "keywords": [
+        "도어락",
+        "디지털도어락",
+        "현관 도어락 교체"
+      ],
+      "product_count": 1195,
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "repair-ohouse-kitchen-faucet",
+      "category": "repair",
+      "label": "오늘의집 주방 수전",
+      "cta": "주방 수전 보러가기",
+      "url": "https://ocayn.info/t8g3e0nkb7",
+      "merchant": "오늘의집",
+      "network": "tenping",
+      "payout": "최대 3.2% (구매확정 당일 검증)",
+      "status": "active",
+      "keywords": [
+        "주방수전",
+        "싱크대 수전",
+        "수전 교체"
+      ],
+      "product_count": 1896,
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "repair-ohouse-bath-faucet",
+      "category": "repair",
+      "label": "오늘의집 욕실수전",
+      "cta": "욕실수전 보러가기",
+      "url": "https://ocayn.info/t8g3e0mw61",
+      "merchant": "오늘의집",
+      "network": "tenping",
+      "payout": "최대 3.2% (구매확정 당일 검증)",
+      "status": "active",
+      "keywords": [
+        "욕실수전",
+        "세면대 수전",
+        "욕실 수전 교체"
+      ],
+      "product_count": 4412,
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "repair-ohouse-showerhead",
+      "category": "repair",
+      "label": "오늘의집 샤워헤드",
+      "cta": "샤워헤드 보러가기",
+      "url": "https://ocayn.info/t8g3e0ncni",
+      "merchant": "오늘의집",
+      "network": "tenping",
+      "payout": "최대 3.2% (구매확정 당일 검증)",
+      "status": "active",
+      "keywords": [
+        "샤워헤드",
+        "샤워기 교체",
+        "절수 샤워헤드"
+      ],
+      "product_count": 2253,
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "repair-ohouse-toilet-parts",
+      "category": "repair",
+      "label": "오늘의집 변기부속",
+      "cta": "변기부속 보러가기",
+      "url": "https://ocayn.info/t8g3e0mw62",
+      "merchant": "오늘의집",
+      "network": "tenping",
+      "payout": "최대 3.2% (구매확정 당일 검증)",
+      "status": "active",
+      "keywords": [
+        "변기부속",
+        "변기 물내림",
+        "변기 수리"
+      ],
+      "product_count": 426,
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "repair-ohouse-wallpaper",
+      "category": "repair",
+      "label": "오늘의집 셀프도배 벽지",
+      "cta": "셀프도배 벽지 보러가기",
+      "url": "https://ocayn.info/t8g3e0mw63",
+      "merchant": "오늘의집",
+      "network": "tenping",
+      "payout": "최대 3.2% (구매확정 당일 검증)",
+      "status": "collected",
+      "keywords": [
+        "셀프도배",
+        "벽지",
+        "도배 셀프시공"
+      ],
+      "product_count": 946,
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "repair-ohouse-flooring",
+      "category": "repair",
+      "label": "오늘의집 장판 바닥재",
+      "cta": "장판 바닥재 보러가기",
+      "url": "https://ocayn.info/t8g3e0ncnj",
+      "merchant": "오늘의집",
+      "network": "tenping",
+      "payout": "최대 3.2% (구매확정 당일 검증)",
+      "status": "collected",
+      "keywords": [
+        "장판",
+        "바닥재",
+        "셀프 바닥시공"
+      ],
+      "product_count": 334,
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "repair-ohouse-paint",
+      "category": "repair",
+      "label": "오늘의집 셀프페인트",
+      "cta": "셀프페인트 보러가기",
+      "url": "https://ocayn.info/t8g3e0mhrk",
+      "merchant": "오늘의집",
+      "network": "tenping",
+      "payout": "최대 3.2% (구매확정 당일 검증)",
+      "status": "collected",
+      "keywords": [
+        "셀프페인트",
+        "벽 페인트",
+        "페인트 시공"
+      ],
+      "product_count": 518,
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "repair-ohouse-molding",
+      "category": "repair",
+      "label": "오늘의집 몰딩",
+      "cta": "몰딩 보러가기",
+      "url": "https://ocayn.info/t8g3e0nr2g",
+      "merchant": "오늘의집",
+      "network": "tenping",
+      "payout": "최대 3.2% (구매확정 당일 검증)",
+      "status": "collected",
+      "keywords": [
+        "몰딩",
+        "걸레받이",
+        "몰딩 시공"
+      ],
+      "product_count": 2682,
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "repair-ohouse-sheet",
+      "category": "repair",
+      "label": "오늘의집 시트지",
+      "cta": "시트지 보러가기",
+      "url": "https://ocayn.info/t8g3e0mhrl",
+      "merchant": "오늘의집",
+      "network": "tenping",
+      "payout": "최대 3.2% (구매확정 당일 검증)",
+      "status": "active",
+      "keywords": [
+        "시트지",
+        "인테리어 필름",
+        "셀프 필름시공"
+      ],
+      "product_count": 6867,
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "repair-ohouse-grout",
+      "category": "repair",
+      "label": "오늘의집 줄눈",
+      "cta": "줄눈 보러가기",
+      "url": "https://ocayn.info/t8g3e0m4wq",
+      "merchant": "오늘의집",
+      "network": "tenping",
+      "payout": "최대 3.2% (구매확정 당일 검증)",
+      "status": "collected",
+      "keywords": [
+        "줄눈",
+        "줄눈 시공",
+        "타일 줄눈"
+      ],
+      "product_count": 345,
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "repair-ohouse-screen-door",
+      "category": "repair",
+      "label": "오늘의집 방충망",
+      "cta": "방충망 보러가기",
+      "url": "https://ocayn.info/t8g3e0ncnh",
+      "merchant": "오늘의집",
+      "network": "tenping",
+      "payout": "최대 3.2% (구매확정 당일 검증)",
+      "status": "active",
+      "keywords": [
+        "방충망",
+        "방충망 교체",
+        "창문 방충망"
+      ],
+      "product_count": 1782,
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "repair-ohouse-draft-strip",
+      "category": "repair",
+      "label": "오늘의집 문풍지",
+      "cta": "문풍지 보러가기",
+      "url": "https://ocayn.info/t8g3e0mw65",
+      "merchant": "오늘의집",
+      "network": "tenping",
+      "payout": "최대 3.2% (구매확정 당일 검증)",
+      "status": "collected",
+      "keywords": [
+        "문풍지",
+        "외풍차단",
+        "창문 단열"
+      ],
+      "product_count": 464,
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "move-cpa-isastory",
+      "category": "moving",
+      "label": "이사스토리",
+      "cta": "이사스토리 무료 견적 받기",
+      "url": "https://ocayn.info/t8g3e0q7ih",
+      "merchant": "이사스토리",
+      "network": "tenping",
+      "campaign_type": "CPA 참여형",
+      "campaign_id": "2019012309580003",
+      "payout": "건당 20,750원",
+      "conversion": "견적/상담 신청 완료",
+      "min_approval": "60%",
+      "verify_period": "7영업일",
+      "status": "collected",
+      "keywords": [
+        "이사비용",
+        "이사업체 추천",
+        "이사 상담",
+        "우수업체 비교"
+      ],
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "move-cpa-isatime",
+      "category": "moving",
+      "label": "이사타임",
+      "cta": "이사타임 무료 견적 받기",
+      "url": "https://ocayn.info/t8g3e0qkda",
+      "merchant": "이사타임",
+      "network": "tenping",
+      "campaign_type": "CPA 참여형",
+      "campaign_id": "2024112614160001",
+      "payout": "건당 19,200원",
+      "conversion": "견적/상담 신청 완료",
+      "min_approval": "100%",
+      "verify_period": "2영업일",
+      "status": "collected",
+      "keywords": [
+        "이사견적비교",
+        "이사업체 3곳",
+        "이사견적플랫폼"
+      ],
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "move-cpa-wematch",
+      "category": "moving",
+      "label": "위매치다이사",
+      "cta": "위매치다이사 무료 견적 받기",
+      "url": "https://ocayn.info/t7rt9471u7",
+      "merchant": "위매치다이사",
+      "network": "tenping",
+      "campaign_type": "CPA 참여형",
+      "campaign_id": "2018112615050001",
+      "payout": "건당 18,000원",
+      "conversion": "견적/상담 신청 완료",
+      "min_approval": "65%",
+      "verify_period": "3영업일",
+      "status": "active",
+      "keywords": [
+        "이사업체 비교",
+        "나쁜이사 피하기",
+        "내주변 이사업체",
+        "에어컨 설치업체"
+      ],
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "move-cpa-isabang-main",
+      "category": "moving",
+      "label": "서경석의 이사방",
+      "cta": "서경석의 이사방 무료 견적 받기",
+      "url": "https://ocayn.info/t7rujwdign",
+      "merchant": "서경석의 이사방",
+      "network": "tenping",
+      "campaign_type": "CPA 참여형",
+      "campaign_id": "2019050216000001",
+      "payout": "건당 15,400원",
+      "conversion": "견적/상담 신청 완료",
+      "min_approval": "60%",
+      "verify_period": "3영업일",
+      "status": "collected",
+      "keywords": [
+        "이사방",
+        "서경석 이사방",
+        "이사 우수지점 견적"
+      ],
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "move-cpa-cleandays",
+      "category": "moving",
+      "label": "클린데이즈",
+      "cta": "클린데이즈 무료 견적 받기",
+      "url": "https://ocayn.info/t73brwzpph",
+      "merchant": "클린데이즈",
+      "network": "tenping",
+      "campaign_type": "CPA 참여형",
+      "campaign_id": "2021101813230001",
+      "payout": "건당 7,200원",
+      "conversion": "견적/상담 신청 완료",
+      "min_approval": "60%",
+      "verify_period": "3영업일",
+      "status": "collected",
+      "keywords": [
+        "청소비용",
+        "무료 청소견적",
+        "공간살균"
+      ],
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "move-cpa-isabang-oneroom",
+      "category": "moving",
+      "label": "이사방 (원룸/용달)",
+      "cta": "이사방 (원룸/용달) 무료 견적 받기",
+      "url": "https://ocayn.info/t8g3e0qzsq",
+      "merchant": "이사방 (원룸/용달)",
+      "network": "tenping",
+      "campaign_type": "CPA 참여형",
+      "campaign_id": "2019121013160001",
+      "payout": "건당 7,000원",
+      "conversion": "견적/상담 신청 완료",
+      "min_approval": "60%",
+      "verify_period": "3영업일",
+      "status": "active",
+      "keywords": [
+        "원룸이사",
+        "용달이사",
+        "소형이사",
+        "1인가구 이사",
+        "오피스텔 이사"
+      ],
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "move-cpa-cleanmania",
+      "category": "moving",
+      "label": "청소매니아",
+      "cta": "청소매니아 무료 견적 받기",
+      "url": "https://ocayn.info/t8g3e0q7ig",
+      "merchant": "청소매니아",
+      "network": "tenping",
+      "campaign_type": "CPA 참여형",
+      "campaign_id": "2019091914030001",
+      "payout": "건당 6,000원",
+      "conversion": "견적/상담 신청 완료",
+      "min_approval": "70%",
+      "verify_period": "3영업일",
+      "status": "collected",
+      "keywords": [
+        "청소업체",
+        "무료견적",
+        "청소 플랫폼"
+      ],
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "repair-soomgo-door-repair",
+      "category": "repair",
+      "label": "숨고 문 설치 및 수리",
+      "cta": "문 설치 및 수리 견적 받기",
+      "url": "https://lpweb.kr/click.php?m=soomgo&a=A100702444&l=9999&l_cd1=3&l_cd2=0&tu=https%3A%2F%2Fsoomgo.com%2Fhire%2F%25EB%25AC%25B8-%25EC%2584%25A4%25EC%25B9%2598-%25EC%2588%2598%25EB%25A6%25AC%3Ffrom%3D%25EC%259D%25BC%25EB%25B0%2598%2520%25EC%259A%2594%25EC%25B2%25AD%25EC%2584%259C",
+      "dest": "https://soomgo.com/hire/%EB%AC%B8-%EC%84%A4%EC%B9%98-%EC%88%98%EB%A6%AC",
+      "merchant": "숨고",
+      "network": "linkprice",
+      "campaign_type": "CPS 딥링크",
+      "payout": "최대 44.1%",
+      "conversion": "견적 요청 완료",
+      "status": "active",
+      "keywords": [
+        "문수리",
+        "방문수리",
+        "문 교체",
+        "문짝 수리"
+      ],
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05",
+      "verified": "사용자 실측 (링크프라이스 직접 생성)"
+    },
+    {
+      "key": "repair-soomgo-door-build",
+      "category": "repair",
+      "label": "숨고 도어 시공",
+      "cta": "도어 시공 견적 받기",
+      "url": "https://linkmoa.kr/click.php?m=soomgo&a=A100702444&l=9999&l_cd1=3&l_cd2=0&tu=https%3A%2F%2Fsoomgo.com%2Fhire%2F%25EB%258F%2584%25EC%2596%25B4-%25EC%258B%259C%25EA%25B3%25B5",
+      "dest": "https://soomgo.com/hire/%EB%8F%84%EC%96%B4-%EC%8B%9C%EA%B3%B5",
+      "merchant": "숨고",
+      "network": "linkprice",
+      "campaign_type": "CPS 딥링크",
+      "payout": "최대 44.1%",
+      "conversion": "견적 요청 완료",
+      "status": "active",
+      "keywords": [
+        "도어시공",
+        "현관문 시공",
+        "문 시공"
+      ],
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "repair-soomgo-middle-door",
+      "category": "repair",
+      "label": "숨고 중문 시공",
+      "cta": "중문 시공 견적 받기",
+      "url": "https://lpweb.kr/click.php?m=soomgo&a=A100702444&l=9999&l_cd1=3&l_cd2=0&tu=https%3A%2F%2Fsoomgo.com%2Fhire%2F%25EC%25A4%2591%25EB%25AC%25B8-%25EC%258B%259C%25EA%25B3%25B5",
+      "dest": "https://soomgo.com/hire/%EC%A4%91%EB%AC%B8-%EC%8B%9C%EA%B3%B5",
+      "merchant": "숨고",
+      "network": "linkprice",
+      "campaign_type": "CPS 딥링크",
+      "payout": "최대 44.1%",
+      "conversion": "견적 요청 완료",
+      "status": "active",
+      "keywords": [
+        "중문",
+        "중문 시공",
+        "중문 설치 비용"
+      ],
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "repair-soomgo-doorlock",
+      "category": "repair",
+      "label": "숨고 열쇠·도어락 설치 및 수리",
+      "cta": "열쇠·도어락 설치 및 수리 견적 받기",
+      "url": "https://linkmoa.kr/click.php?m=soomgo&a=A100702444&l=9999&l_cd1=3&l_cd2=0&tu=https%3A%2F%2Fsoomgo.com%2Fhire%2F%25EC%2597%25B4%25EC%2587%25A0-%25EB%258F%2584%25EC%2596%25B4%25EB%259D%25BD-%25EC%2584%25A4%25EC%25B9%2598-%25EC%2588%2598%25EB%25A6%25AC",
+      "dest": "https://soomgo.com/hire/%EC%97%B4%EC%87%A0-%EB%8F%84%EC%96%B4%EB%9D%BD-%EC%84%A4%EC%B9%98-%EC%88%98%EB%A6%AC",
+      "merchant": "숨고",
+      "network": "linkprice",
+      "campaign_type": "CPS 딥링크",
+      "payout": "최대 44.1%",
+      "conversion": "견적 요청 완료",
+      "status": "active",
+      "keywords": [
+        "도어락 교체",
+        "디지털도어락 설치",
+        "열쇠 수리"
+      ],
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "repair-soomgo-doorlock-urgent",
+      "category": "repair",
+      "label": "숨고 (긴급) 도어락 고장",
+      "cta": "(긴급) 도어락 고장 견적 받기",
+      "url": "https://lpweb.kr/click.php?m=soomgo&a=A100702444&l=9999&l_cd1=3&l_cd2=0&tu=https%3A%2F%2Fsoomgo.com%2Fhire%2F%25EA%25B8%25B4%25EA%25B8%2589-%25EB%258F%2584%25EC%2596%25B4%25EB%259D%25BD-%25EA%25B3%25A0%25EC%259E%25A5",
+      "dest": "https://soomgo.com/hire/%EA%B8%B4%EA%B8%89-%EB%8F%84%EC%96%B4%EB%9D%BD-%EA%B3%A0%EC%9E%A5",
+      "merchant": "숨고",
+      "network": "linkprice",
+      "campaign_type": "CPS 딥링크",
+      "payout": "최대 44.1%",
+      "conversion": "견적 요청 완료",
+      "status": "active",
+      "keywords": [
+        "도어락 고장",
+        "도어락 긴급출동",
+        "문 안열림"
+      ],
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "repair-soomgo-screen-door",
+      "category": "repair",
+      "label": "숨고 방충망 설치 및 수리",
+      "cta": "방충망 설치 및 수리 견적 받기",
+      "url": "https://linkmoa.kr/click.php?m=soomgo&a=A100702444&l=9999&l_cd1=3&l_cd2=0&tu=https%3A%2F%2Fsoomgo.com%2Fhire%2F%25EB%25B0%25A9%25EC%25B6%25A9%25EB%25A7%259D-%25EC%2584%25A4%25EC%25B9%2598-%25EC%2588%2598%25EB%25A6%25AC",
+      "dest": "https://soomgo.com/hire/%EB%B0%A9%EC%B6%A9%EB%A7%9D-%EC%84%A4%EC%B9%98-%EC%88%98%EB%A6%AC",
+      "merchant": "숨고",
+      "network": "linkprice",
+      "campaign_type": "CPS 딥링크",
+      "payout": "최대 44.1%",
+      "conversion": "견적 요청 완료",
+      "status": "active",
+      "keywords": [
+        "방충망 교체",
+        "방충망 수리",
+        "창문 방충망"
+      ],
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "repair-soomgo-sash",
+      "category": "repair",
+      "label": "숨고 샷시 설치 및 수리",
+      "cta": "샷시 설치 및 수리 견적 받기",
+      "url": "https://lpweb.kr/click.php?m=soomgo&a=A100702444&l=9999&l_cd1=3&l_cd2=0&tu=https%3A%2F%2Fsoomgo.com%2Fhire%2F%25EC%25B0%25BD%25EB%25AC%25B8-%25EC%2584%25A4%25EC%25B9%2598-%25EC%2588%2598%25EB%25A6%25AC",
+      "dest": "https://soomgo.com/hire/%EC%B0%BD%EB%AC%B8-%EC%84%A4%EC%B9%98-%EC%88%98%EB%A6%AC",
+      "merchant": "숨고",
+      "network": "linkprice",
+      "campaign_type": "CPS 딥링크",
+      "payout": "최대 44.1%",
+      "conversion": "견적 요청 완료",
+      "status": "active",
+      "keywords": [
+        "샷시 교체",
+        "창호 시공",
+        "창문 수리"
+      ],
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "repair-soomgo-glass",
+      "category": "repair",
+      "label": "숨고 유리 제작 및 시공",
+      "cta": "유리 제작 및 시공 견적 받기",
+      "url": "https://linkmoa.kr/click.php?m=soomgo&a=A100702444&l=9999&l_cd1=3&l_cd2=0&tu=https%3A%2F%2Fsoomgo.com%2Fhire%2F%25EC%259C%25A0%25EB%25A6%25AC-%25EC%25A0%259C%25EC%259E%2591%25EB%25B0%258F%25EC%258B%259C%25EA%25B3%25B5",
+      "dest": "https://soomgo.com/hire/%EC%9C%A0%EB%A6%AC-%EC%A0%9C%EC%9E%91%EB%B0%8F%EC%8B%9C%EA%B3%B5",
+      "merchant": "숨고",
+      "network": "linkprice",
+      "campaign_type": "CPS 딥링크",
+      "payout": "최대 44.1%",
+      "conversion": "견적 요청 완료",
+      "status": "active",
+      "keywords": [
+        "유리 교체",
+        "거울 시공",
+        "강화유리 제작"
+      ],
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "repair-soomgo-plumbing",
+      "category": "repair",
+      "label": "숨고 수도 관련 설치 및 수리",
+      "cta": "수도 관련 설치 및 수리 견적 받기",
+      "url": "https://lpweb.kr/click.php?m=soomgo&a=A100702444&l=9999&l_cd1=3&l_cd2=0&tu=https%3A%2F%2Fsoomgo.com%2Fhire%2F%25EC%2588%2598%25EB%258F%2584-%25EC%2584%25A4%25EC%25B9%2598-%25EC%2588%2598%25EB%25A6%25AC",
+      "dest": "https://soomgo.com/hire/%EC%88%98%EB%8F%84-%EC%84%A4%EC%B9%98-%EC%88%98%EB%A6%AC",
+      "merchant": "숨고",
+      "network": "linkprice",
+      "campaign_type": "CPS 딥링크",
+      "payout": "최대 44.1%",
+      "conversion": "견적 요청 완료",
+      "status": "active",
+      "keywords": [
+        "수전 교체",
+        "싱크대 수도",
+        "수도 수리"
+      ],
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "repair-soomgo-leak",
+      "category": "repair",
+      "label": "숨고 누수 탐지·공사",
+      "cta": "누수 탐지·공사 견적 받기",
+      "url": "https://linkmoa.kr/click.php?m=soomgo&a=A100702444&l=9999&l_cd1=3&l_cd2=0&tu=https%3A%2F%2Fsoomgo.com%2Fhire%2F%25EB%2588%2584%25EC%2588%2598-%25ED%2583%2590%25EC%25A7%2580",
+      "dest": "https://soomgo.com/hire/%EB%88%84%EC%88%98-%ED%83%90%EC%A7%80",
+      "merchant": "숨고",
+      "network": "linkprice",
+      "campaign_type": "CPS 딥링크",
+      "payout": "최대 44.1%",
+      "conversion": "견적 요청 완료",
+      "status": "active",
+      "keywords": [
+        "누수 탐지",
+        "천장 누수",
+        "누수 공사 비용"
+      ],
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "repair-soomgo-washer",
+      "category": "repair",
+      "label": "숨고 세탁기 설치 및 수리",
+      "cta": "세탁기 설치 및 수리 견적 받기",
+      "url": "https://lpweb.kr/click.php?m=soomgo&a=A100702444&l=9999&l_cd1=3&l_cd2=0&tu=https%3A%2F%2Fsoomgo.com%2Fhire%2F%25EC%2584%25B8%25ED%2583%2581%25EA%25B8%25B0-%25EC%2584%25A4%25EC%25B9%2598-%25EB%25B0%258F-%25EC%2588%2598%25EB%25A6%25AC",
+      "dest": "https://soomgo.com/hire/%EC%84%B8%ED%83%81%EA%B8%B0-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%88%98%EB%A6%AC",
+      "merchant": "숨고",
+      "network": "linkprice",
+      "campaign_type": "CPS 딥링크",
+      "payout": "최대 44.1%",
+      "conversion": "견적 요청 완료",
+      "status": "active",
+      "keywords": [
+        "세탁기 설치",
+        "건조기 설치",
+        "세탁기 이전설치"
+      ],
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "repair-soomgo-aircon",
+      "category": "repair",
+      "label": "숨고 에어컨 설치 및 수리",
+      "cta": "에어컨 설치 및 수리 견적 받기",
+      "url": "https://linkmoa.kr/click.php?m=soomgo&a=A100702444&l=9999&l_cd1=3&l_cd2=0&tu=https%3A%2F%2Fsoomgo.com%2Fhire%2F%25EC%2597%2590%25EC%2596%25B4%25EC%25BB%25A8-%25EC%2584%25A4%25EC%25B9%2598-%25EC%2588%2598%25EB%25A6%25AC",
+      "dest": "https://soomgo.com/hire/%EC%97%90%EC%96%B4%EC%BB%A8-%EC%84%A4%EC%B9%98-%EC%88%98%EB%A6%AC",
+      "merchant": "숨고",
+      "network": "linkprice",
+      "campaign_type": "CPS 딥링크",
+      "payout": "최대 44.1%",
+      "conversion": "견적 요청 완료",
+      "status": "active",
+      "keywords": [
+        "에어컨 설치",
+        "에어컨 이전설치",
+        "에어컨 수리"
+      ],
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "repair-soomgo-tv-mount",
+      "category": "repair",
+      "label": "숨고 벽걸이TV 설치 및 철거",
+      "cta": "벽걸이TV 설치 및 철거 견적 받기",
+      "url": "https://lpweb.kr/click.php?m=soomgo&a=A100702444&l=9999&l_cd1=3&l_cd2=0&tu=https%3A%2F%2Fsoomgo.com%2Fhire%2F%25EB%25B2%25BD%25EA%25B1%25B8%25EC%259D%25B4TV-%25EC%2584%25A4%25EC%25B9%2598-%25EC%25B2%25A0%25EA%25B1%25B0",
+      "dest": "https://soomgo.com/hire/%EB%B2%BD%EA%B1%B8%EC%9D%B4TV-%EC%84%A4%EC%B9%98-%EC%B2%A0%EA%B1%B0",
+      "merchant": "숨고",
+      "network": "linkprice",
+      "campaign_type": "CPS 딥링크",
+      "payout": "최대 44.1%",
+      "conversion": "견적 요청 완료",
+      "status": "active",
+      "keywords": [
+        "벽걸이TV 설치",
+        "TV 벽걸이 시공",
+        "TV 철거"
+      ],
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "repair-soomgo-light",
+      "category": "repair",
+      "label": "숨고 전등 교체·설치",
+      "cta": "전등 교체·설치 견적 받기",
+      "url": "https://linkmoa.kr/click.php?m=soomgo&a=A100702444&l=9999&l_cd1=3&l_cd2=0&tu=https%3A%2F%2Fsoomgo.com%2Fhire%2F%25EC%25A0%2584%25EB%2593%25B1%25EA%25B5%2590%25EC%25B2%25B4-%25EC%2584%25A4%25EC%25B9%2598",
+      "dest": "https://soomgo.com/hire/%EC%A0%84%EB%93%B1%EA%B5%90%EC%B2%B4-%EC%84%A4%EC%B9%98",
+      "merchant": "숨고",
+      "network": "linkprice",
+      "campaign_type": "CPS 딥링크",
+      "payout": "최대 44.1%",
+      "conversion": "견적 요청 완료",
+      "status": "collected",
+      "keywords": [
+        "전등 교체",
+        "조명 설치",
+        "LED 교체"
+      ],
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "repair-soomgo-boiler",
+      "category": "repair",
+      "label": "숨고 보일러 설치 및 수리",
+      "cta": "보일러 설치 및 수리 견적 받기",
+      "url": "https://lpweb.kr/click.php?m=soomgo&a=A100702444&l=9999&l_cd1=3&l_cd2=0&tu=https%3A%2F%2Fsoomgo.com%2Fhire%2F%25EB%25B3%25B4%25EC%259D%25BC%25EB%259F%25AC-%25EC%2584%25A4%25EC%25B9%2598-%25EC%2588%2598%25EB%25A6%25AC",
+      "dest": "https://soomgo.com/hire/%EB%B3%B4%EC%9D%BC%EB%9F%AC-%EC%84%A4%EC%B9%98-%EC%88%98%EB%A6%AC",
+      "merchant": "숨고",
+      "network": "linkprice",
+      "campaign_type": "CPS 딥링크",
+      "payout": "최대 44.1%",
+      "conversion": "견적 요청 완료",
+      "status": "collected",
+      "keywords": [
+        "보일러 교체",
+        "보일러 수리",
+        "지역난방"
+      ],
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "repair-soomgo-draft",
+      "category": "repair",
+      "label": "숨고 외풍차단·틈막이 시공",
+      "cta": "외풍차단·틈막이 시공 견적 받기",
+      "url": "https://linkmoa.kr/click.php?m=soomgo&a=A100702444&l=9999&l_cd1=3&l_cd2=0&tu=https%3A%2F%2Fsoomgo.com%2Fhire%2F%25EC%2599%25B8%25ED%2592%258D%25EC%25B0%25A8%25EB%258B%25A8%25ED%258B%2588%25EB%25A7%2589%25EC%259D%25B4-%25EC%258B%259C%25EA%25B3%25B5",
+      "dest": "https://soomgo.com/hire/%EC%99%B8%ED%92%8D%EC%B0%A8%EB%8B%A8%ED%8B%88%EB%A7%89%EC%9D%B4-%EC%8B%9C%EA%B3%B5",
+      "merchant": "숨고",
+      "network": "linkprice",
+      "campaign_type": "CPS 딥링크",
+      "payout": "최대 44.1%",
+      "conversion": "견적 요청 완료",
+      "status": "active",
+      "keywords": [
+        "외풍차단",
+        "틈막이 시공",
+        "창문 단열"
+      ],
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05"
+    },
+    {
+      "key": "move-soomgo-home",
+      "category": "moving",
+      "label": "숨고 가정이사 (투룸 이상)",
+      "cta": "가정이사 (투룸 이상) 견적 받기",
+      "url": "https://lpweb.kr/click.php?m=soomgo&a=A100702444&l=9999&l_cd1=3&l_cd2=0&tu=https%3A%2F%2Fsoomgo.com%2Fhire%2F%25EA%25B0%2580%25EC%25A0%2595-%25EC%259D%25B4%25EC%2582%25AC-%25ED%2588%25AC%25EB%25A3%25B8-%25EC%2593%25B0%25EB%25A6%25AC%25EB%25A3%25B8",
+      "dest": "https://soomgo.com/hire/%EA%B0%80%EC%A0%95-%EC%9D%B4%EC%82%AC-%ED%88%AC%EB%A3%B8-%EC%93%B0%EB%A6%AC%EB%A3%B8",
+      "merchant": "숨고",
+      "network": "linkprice",
+      "campaign_type": "CPS 딥링크",
+      "payout": "최대 44.1%",
+      "conversion": "견적 요청 완료",
+      "status": "collected",
+      "keywords": [
+        "가정이사",
+        "포장이사",
+        "투룸 이사",
+        "쓰리룸 이사"
+      ],
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05",
+      "issue": "보류: 같은 수요를 텐핑 건당 정액 CPA(이사마켓 20,750원 등)가 이미 받고 있어 중복. 텐핑 승인율이 떨어질 때 교체 후보."
+    },
+    {
+      "key": "move-soomgo-oneroom",
+      "category": "moving",
+      "label": "숨고 원룸·소형 이사",
+      "cta": "원룸·소형 이사 견적 받기",
+      "url": "https://linkmoa.kr/click.php?m=soomgo&a=A100702444&l=9999&l_cd1=3&l_cd2=0&tu=https%3A%2F%2Fsoomgo.com%2Fhire%2F%25EC%259B%2590%25EB%25A3%25B8-%25EC%2586%258C%25ED%2598%2595-%25EC%259D%25B4%25EC%2582%25AC",
+      "dest": "https://soomgo.com/hire/%EC%9B%90%EB%A3%B8-%EC%86%8C%ED%98%95-%EC%9D%B4%EC%82%AC",
+      "merchant": "숨고",
+      "network": "linkprice",
+      "campaign_type": "CPS 딥링크",
+      "payout": "최대 44.1%",
+      "conversion": "견적 요청 완료",
+      "status": "collected",
+      "keywords": [
+        "원룸이사",
+        "소형이사",
+        "1인가구 이사"
+      ],
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05",
+      "issue": "보류: 같은 수요를 텐핑 건당 정액 CPA(이사마켓 20,750원 등)가 이미 받고 있어 중복. 텐핑 승인율이 떨어질 때 교체 후보."
+    },
+    {
+      "key": "move-soomgo-truck",
+      "category": "moving",
+      "label": "숨고 용달·화물 운송",
+      "cta": "용달·화물 운송 견적 받기",
+      "url": "https://lpweb.kr/click.php?m=soomgo&a=A100702444&l=9999&l_cd1=3&l_cd2=0&tu=https%3A%2F%2Fsoomgo.com%2Fhire%2F%25EC%259A%25A9%25EB%258B%25AC-%25EC%259A%25B4%25EC%2586%25A1",
+      "dest": "https://soomgo.com/hire/%EC%9A%A9%EB%8B%AC-%EC%9A%B4%EC%86%A1",
+      "merchant": "숨고",
+      "network": "linkprice",
+      "campaign_type": "CPS 딥링크",
+      "payout": "최대 44.1%",
+      "conversion": "견적 요청 완료",
+      "status": "collected",
+      "keywords": [
+        "용달이사",
+        "화물운송",
+        "짐 옮기기"
+      ],
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05",
+      "issue": "보류: 같은 수요를 텐핑 건당 정액 CPA(이사마켓 20,750원 등)가 이미 받고 있어 중복. 텐핑 승인율이 떨어질 때 교체 후보."
+    },
+    {
+      "key": "move-soomgo-movein-clean",
+      "category": "moving",
+      "label": "숨고 이사·입주 청소업체",
+      "cta": "이사·입주 청소업체 견적 받기",
+      "url": "https://linkmoa.kr/click.php?m=soomgo&a=A100702444&l=9999&l_cd1=3&l_cd2=0&tu=https%3A%2F%2Fsoomgo.com%2Fhire%2F%25EC%259D%25B4%25EC%2582%25AC-%25EC%259E%2585%25EC%25A3%25BC-%25EC%25B2%25AD%25EC%2586%258C-%25EC%2597%2585%25EC%25B2%25B4",
+      "dest": "https://soomgo.com/hire/%EC%9D%B4%EC%82%AC-%EC%9E%85%EC%A3%BC-%EC%B2%AD%EC%86%8C-%EC%97%85%EC%B2%B4",
+      "merchant": "숨고",
+      "network": "linkprice",
+      "campaign_type": "CPS 딥링크",
+      "payout": "최대 44.1%",
+      "conversion": "견적 요청 완료",
+      "status": "collected",
+      "keywords": [
+        "입주청소",
+        "이사청소",
+        "새집 청소"
+      ],
+      "collected_at": "2026-09-05",
+      "updated": "2026-09-05",
+      "issue": "보류: 같은 수요를 텐핑 건당 정액 CPA(이사마켓 20,750원 등)가 이미 받고 있어 중복. 텐핑 승인율이 떨어질 때 교체 후보."
+    },
+    {
+      "key": "hotel-urbanstay-cheonan-yeogi",
+      "category": "accommodation",
+      "label": "천안 어반스테이 (여기어때)",
+      "cta": "천안 어반스테이 여기어때 실시간 가격 조회",
+      "url": "https://3ha.in/r/686503",
+      "network": "3hoursahead.com (여기어때)",
+      "status": "active",
+      "updated": "2026-09-07",
+      "keywords": [
+        "천안 숙소",
+        "천안 호텔",
+        "천안 모텔",
+        "천안 어반스테이"
+      ]
+    },
+    {
+      "key": "hotel-oncity-cheonan-yanolja",
+      "category": "accommodation",
+      "label": "천안 오엔시티 호텔 (야놀자)",
+      "cta": "천안 오엔시티 호텔 야놀자 실시간 가격 조회",
+      "url": "https://3ha.in/r/686504",
+      "network": "3hoursahead.com (야놀자)",
+      "status": "active",
+      "updated": "2026-09-07",
+      "keywords": [
+        "천안 숙소",
+        "천안 호텔",
+        "천안 모텔",
+        "천안 오엔시티 호텔"
+      ]
+    },
+    {
+      "key": "resort-sonobelle-cheonan-yeogi",
+      "category": "accommodation",
+      "label": "소노벨 천안 (여기어때)",
+      "cta": "소노벨 천안 여기어때 실시간 가격 조회",
+      "url": "https://3ha.in/r/686507",
+      "network": "3hoursahead.com (여기어때)",
+      "status": "active",
+      "updated": "2026-09-07",
+      "keywords": [
+        "천안 숙소",
+        "천안 호텔",
+        "천안 모텔",
+        "소노벨 천안"
+      ]
+    },
+    {
+      "key": "resort-sonobelle-cheonan-yanolja",
+      "category": "accommodation",
+      "label": "소노벨 천안 (야놀자)",
+      "cta": "소노벨 천안 야놀자 실시간 가격 조회",
+      "url": "https://3ha.in/r/686537",
+      "network": "3hoursahead.com (야놀자)",
+      "status": "active",
+      "updated": "2026-09-07",
+      "keywords": [
+        "천안 숙소",
+        "천안 호텔",
+        "천안 모텔",
+        "소노벨 천안"
+      ]
+    },
+    {
+      "key": "hotel-mansion-bridge-cheonan-yeogi",
+      "category": "accommodation",
+      "label": "천안 맨션브릿지 호텔 (여기어때)",
+      "cta": "천안 맨션브릿지 호텔 여기어때 실시간 가격 조회",
+      "url": "https://3ha.in/r/686509",
+      "network": "3hoursahead.com (여기어때)",
+      "status": "active",
+      "updated": "2026-09-07",
+      "keywords": [
+        "천안 숙소",
+        "천안 호텔",
+        "천안 모텔",
+        "천안 맨션브릿지 호텔"
+      ]
+    },
+    {
+      "key": "hotel-mansion-bridge-cheonan-yanolja",
+      "category": "accommodation",
+      "label": "천안 맨션브릿지 호텔 (야놀자)",
+      "cta": "천안 맨션브릿지 호텔 야놀자 실시간 가격 조회",
+      "url": "https://3ha.in/r/686539",
+      "network": "3hoursahead.com (야놀자)",
+      "status": "active",
+      "updated": "2026-09-07",
+      "keywords": [
+        "천안 숙소",
+        "천안 호텔",
+        "천안 모텔",
+        "천안 맨션브릿지 호텔"
+      ]
+    },
+    {
+      "key": "hotel-pognan-cheonan-yeogi",
+      "category": "accommodation",
+      "label": "천안 호텔 포그난 (여기어때)",
+      "cta": "천안 호텔 포그난 여기어때 실시간 가격 조회",
+      "url": "https://3ha.in/r/686518",
+      "network": "3hoursahead.com (여기어때)",
+      "status": "active",
+      "updated": "2026-09-07",
+      "keywords": [
+        "천안 숙소",
+        "천안 호텔",
+        "천안 모텔",
+        "천안 호텔 포그난"
+      ]
+    },
+    {
+      "key": "hotel-pognan-cheonan-yanolja",
+      "category": "accommodation",
+      "label": "천안 호텔 포그난 (야놀자)",
+      "cta": "천안 호텔 포그난 야놀자 실시간 가격 조회",
+      "url": "https://3ha.in/r/686540",
+      "network": "3hoursahead.com (야놀자)",
+      "status": "active",
+      "updated": "2026-09-07",
+      "keywords": [
+        "천안 숙소",
+        "천안 호텔",
+        "천안 모텔",
+        "천안 호텔 포그난"
+      ]
+    },
+    {
+      "key": "hotel-rium-cheonan-yeogi",
+      "category": "accommodation",
+      "label": "천안 호텔리움 (여기어때)",
+      "cta": "천안 호텔리움 여기어때 실시간 가격 조회",
+      "url": "https://3ha.in/r/686519",
+      "network": "3hoursahead.com (여기어때)",
+      "status": "active",
+      "updated": "2026-09-07",
+      "keywords": [
+        "천안 숙소",
+        "천안 호텔",
+        "천안 모텔",
+        "천안 호텔리움"
+      ]
+    },
+    {
+      "key": "hotel-dongbaek-cheonan-yeogi",
+      "category": "accommodation",
+      "label": "천안 동백호텔 (여기어때)",
+      "cta": "천안 동백호텔 여기어때 실시간 가격 조회",
+      "url": "https://3ha.in/r/686520",
+      "network": "3hoursahead.com (여기어때)",
+      "status": "active",
+      "updated": "2026-09-07",
+      "keywords": [
+        "천안 숙소",
+        "천안 호텔",
+        "천안 모텔",
+        "천안 동백호텔"
+      ]
+    },
+    {
+      "key": "hotel-nox-cheonan-yeogi",
+      "category": "accommodation",
+      "label": "천안 녹스호텔 (여기어때)",
+      "cta": "천안 녹스호텔 여기어때 실시간 가격 조회",
+      "url": "https://3ha.in/r/686523",
+      "network": "3hoursahead.com (여기어때)",
+      "status": "active",
+      "updated": "2026-09-07",
+      "keywords": [
+        "천안 숙소",
+        "천안 호텔",
+        "천안 모텔",
+        "천안 녹스호텔"
+      ]
+    },
+    {
+      "key": "hotel-yosuguri-cheonan-yeogi",
+      "category": "accommodation",
+      "label": "천안 요수구리 아늑료칸 호텔 (여기어때)",
+      "cta": "천안 요수구리 아늑료칸 호텔 여기어때 실시간 가격 조회",
+      "url": "https://3ha.in/r/686524",
+      "network": "3hoursahead.com (여기어때)",
+      "status": "active",
+      "updated": "2026-09-07",
+      "keywords": [
+        "천안 숙소",
+        "천안 호텔",
+        "천안 모텔",
+        "천안 요수구리 아늑료칸 호텔"
+      ]
+    },
+    {
+      "key": "hotel-yosuguri-cheonan-yanolja",
+      "category": "accommodation",
+      "label": "천안 요수구리 아늑료칸 호텔 (야놀자)",
+      "cta": "천안 요수구리 아늑료칸 호텔 야놀자 실시간 가격 조회",
+      "url": "https://3ha.in/r/686541",
+      "network": "3hoursahead.com (야놀자)",
+      "status": "active",
+      "updated": "2026-09-07",
+      "keywords": [
+        "천안 숙소",
+        "천안 호텔",
+        "천안 모텔",
+        "천안 요수구리 아늑료칸 호텔"
+      ]
+    },
+    {
+      "key": "hotel-view-cheonan-yeogi",
+      "category": "accommodation",
+      "label": "천안 뷰 호텔 (여기어때)",
+      "cta": "천안 뷰 호텔 여기어때 실시간 가격 조회",
+      "url": "https://3ha.in/r/686526",
+      "network": "3hoursahead.com (여기어때)",
+      "status": "active",
+      "updated": "2026-09-07",
+      "keywords": [
+        "천안 숙소",
+        "천안 호텔",
+        "천안 모텔",
+        "천안 뷰 호텔"
+      ]
+    },
+    {
+      "key": "hotel-view-cheonan-yanolja",
+      "category": "accommodation",
+      "label": "천안 뷰 호텔 (야놀자)",
+      "cta": "천안 뷰 호텔 야놀자 실시간 가격 조회",
+      "url": "https://3ha.in/r/686542",
+      "network": "3hoursahead.com (야놀자)",
+      "status": "active",
+      "updated": "2026-09-07",
+      "keywords": [
+        "천안 숙소",
+        "천안 호텔",
+        "천안 모텔",
+        "천안 뷰 호텔"
+      ]
+    },
+    {
+      "key": "hotel-havenue-cheonan-yanolja",
+      "category": "accommodation",
+      "label": "천안 H 에비뉴 호텔 (야놀자)",
+      "cta": "천안 H 에비뉴 호텔 야놀자 실시간 가격 조회",
+      "url": "https://3ha.in/r/686543",
+      "network": "3hoursahead.com (야놀자)",
+      "status": "active",
+      "updated": "2026-09-07",
+      "keywords": [
+        "천안 숙소",
+        "천안 호텔",
+        "천안 모텔",
+        "천안 H 에비뉴 호텔"
+      ]
+    },
+    {
+      "key": "hotel-jtop-cheonan-yeogi",
+      "category": "accommodation",
+      "label": "천안 제이탑 호텔 (여기어때)",
+      "cta": "천안 제이탑 호텔 여기어때 실시간 가격 조회",
+      "url": "https://3ha.in/r/686527",
+      "network": "3hoursahead.com (여기어때)",
+      "status": "active",
+      "updated": "2026-09-07",
+      "keywords": [
+        "천안 숙소",
+        "천안 호텔",
+        "천안 모텔",
+        "천안 제이탑 호텔"
+      ]
+    },
+    {
+      "key": "hotel-justsleep-cheonan-yeogi",
+      "category": "accommodation",
+      "label": "천안 저스트슬립호텔 천안역점 (여기어때)",
+      "cta": "천안 저스트슬립호텔 천안역점 여기어때 실시간 가격 조회",
+      "url": "https://3ha.in/r/686529",
+      "network": "3hoursahead.com (여기어때)",
+      "status": "active",
+      "updated": "2026-09-07",
+      "keywords": [
+        "천안 숙소",
+        "천안 호텔",
+        "천안 모텔",
+        "천안 저스트슬립호텔 천안역점"
+      ]
+    },
+    {
+      "key": "hotel-justsleep-cheonan-yanolja",
+      "category": "accommodation",
+      "label": "천안 저스트슬립호텔 천안역점 (야놀자)",
+      "cta": "천안 저스트슬립호텔 천안역점 야놀자 실시간 가격 조회",
+      "url": "https://3ha.in/r/686544",
+      "network": "3hoursahead.com (야놀자)",
+      "status": "active",
+      "updated": "2026-09-07",
+      "keywords": [
+        "천안 숙소",
+        "천안 호텔",
+        "천안 모텔",
+        "천안 저스트슬립호텔 천안역점"
+      ]
+    },
+    {
+      "key": "hotel-nu-cheonan-yanolja",
+      "category": "accommodation",
+      "label": "천안 NU(엔유) 호텔 (야놀자)",
+      "cta": "천안 NU(엔유) 호텔 야놀자 실시간 가격 조회",
+      "url": "https://3ha.in/r/686545",
+      "network": "3hoursahead.com (야놀자)",
+      "status": "active",
+      "updated": "2026-09-07",
+      "keywords": [
+        "천안 숙소",
+        "천안 호텔",
+        "천안 모텔",
+        "천안 NU(엔유) 호텔"
+      ]
+    },
+    {
+      "key": "hotel-urbant-cheonan-yeogi",
+      "category": "accommodation",
+      "label": "천안 어반트 모텔/온화호텔 (여기어때)",
+      "cta": "천안 어반트 모텔/온화호텔 여기어때 실시간 가격 조회",
+      "url": "https://3ha.in/r/686532",
+      "network": "3hoursahead.com (여기어때)",
+      "status": "active",
+      "updated": "2026-09-07",
+      "keywords": [
+        "천안 숙소",
+        "천안 호텔",
+        "천안 모텔",
+        "천안 어반트 모텔/온화호텔"
+      ]
+    },
+    {
+      "key": "hotel-urbant-cheonan-yanolja",
+      "category": "accommodation",
+      "label": "천안 어반트 모텔/온화호텔 (야놀자)",
+      "cta": "천안 어반트 모텔/온화호텔 야놀자 실시간 가격 조회",
+      "url": "https://3ha.in/r/686548",
+      "network": "3hoursahead.com (야놀자)",
+      "status": "active",
+      "updated": "2026-09-07",
+      "keywords": [
+        "천안 숙소",
+        "천안 호텔",
+        "천안 모텔",
+        "천안 어반트 모텔/온화호텔"
+      ]
+    },
+    {
+      "key": "hotel-hound-buldang-yeogi",
+      "category": "accommodation",
+      "label": "천안 하운드호텔 불당점 (여기어때)",
+      "cta": "천안 하운드호텔 불당점 여기어때 실시간 가격 조회",
+      "url": "https://3ha.in/r/686534",
+      "network": "3hoursahead.com (여기어때)",
+      "status": "active",
+      "updated": "2026-09-07",
+      "keywords": [
+        "천안 숙소",
+        "천안 호텔",
+        "천안 모텔",
+        "천안 하운드호텔 불당점"
+      ]
+    },
+    {
+      "key": "hotel-hound-buldang-yanolja",
+      "category": "accommodation",
+      "label": "천안 하운드호텔 불당점 (야놀자)",
+      "cta": "천안 하운드호텔 불당점 야놀자 실시간 가격 조회",
+      "url": "https://3ha.in/r/686549",
+      "network": "3hoursahead.com (야놀자)",
+      "status": "active",
+      "updated": "2026-09-07",
+      "keywords": [
+        "천안 숙소",
+        "천안 호텔",
+        "천안 모텔",
+        "천안 하운드호텔 불당점"
+      ]
+    },
+    {
+      "key": "hotel-loge-cheonan-yeogi",
+      "category": "accommodation",
+      "label": "천안 아산 로지호텔 (여기어때)",
+      "cta": "천안 아산 로지호텔 여기어때 실시간 가격 조회",
+      "url": "https://3ha.in/r/686535",
+      "network": "3hoursahead.com (여기어때)",
+      "status": "active",
+      "updated": "2026-09-07",
+      "keywords": [
+        "천안 숙소",
+        "천안 호텔",
+        "천안 모텔",
+        "천안 아산 로지호텔"
+      ]
+    },
+    {
+      "key": "hotel-loge-cheonan-yanolja",
+      "category": "accommodation",
+      "label": "천안 아산 로지호텔 (야놀자)",
+      "cta": "천안 아산 로지호텔 야놀자 실시간 가격 조회",
+      "url": "https://3ha.in/r/686550",
+      "network": "3hoursahead.com (야놀자)",
+      "status": "active",
+      "updated": "2026-09-07",
+      "keywords": [
+        "천안 숙소",
+        "천안 호텔",
+        "천안 모텔",
+        "천안 아산 로지호텔"
+      ]
+    },
+    {
+      "key": "hotel-sonobelle-cheonan-agoda",
+      "category": "accommodation",
+      "label": "소노벨 천안 (아고다)",
+      "cta": "소노벨 천안 아고다 실시간 가격 조회",
+      "url": "https://3ha.in/r/687229",
+      "network": "3hoursahead.com (아고다)",
+      "status": "active",
+      "updated": "2026-09-07",
+      "keywords": [
+        "천안 숙소",
+        "천안 호텔",
+        "천안 리조트",
+        "소노벨 천안",
+        "아고다 천안"
+      ]
+    },
+    {
+      "key": "coupon-agoda-global",
+      "category": "travel_coupon",
+      "label": "아고다 전세계 5% 할인코드",
+      "cta": "아고다 5% 즉시할인 받기",
+      "url": "https://3ha.in/r/684222",
+      "network": "3hoursahead.com (아고다)",
+      "status": "active",
+      "updated": "2026-09-10",
+      "keywords": [
+        "아고다 할인코드",
+        "아고다 5%",
+        "호텔 할인쿠폰"
+      ]
+    },
+    {
+      "key": "coupon-tripcom-mega",
+      "category": "travel_coupon",
+      "label": "트립닷컴 메가세일 70% 특가",
+      "cta": "트립닷컴 메가세일 확인하기",
+      "url": "https://3ha.in/r/684441",
+      "network": "3hoursahead.com (트립닷컴)",
+      "status": "active",
+      "updated": "2026-09-10",
+      "keywords": [
+        "트립닷컴 할인코드",
+        "트립닷컴 메가세일",
+        "트립닷컴 항공권"
+      ]
+    },
+    {
+      "key": "coupon-klook-tours",
+      "category": "travel_coupon",
+      "label": "클룩 투어 6% 할인코드",
+      "cta": "클룩 액티비티 할인받기",
+      "url": "https://3ha.in/r/684262",
+      "network": "3hoursahead.com (클룩)",
+      "status": "active",
+      "updated": "2026-09-10",
+      "keywords": [
+        "클룩 할인코드",
+        "클룩 6%",
+        "유니버설 재팬 티켓"
+      ]
+    },
+    {
+      "key": "coupon-yeogi-domestic",
+      "category": "travel_coupon",
+      "label": "여기어때 국내 숙소 10% 특가",
+      "cta": "여기어때 숙소 예약하기",
+      "url": "https://3ha.in/r/686503",
+      "network": "3hoursahead.com (여기어때)",
+      "status": "active",
+      "updated": "2026-09-10",
+      "keywords": [
+        "여기어때 할인코드",
+        "국내 숙소 할인",
+        "호캉스 특가"
+      ]
+    },
+    {
+      "key": "coupon-yanolja-stay",
+      "category": "travel_coupon",
+      "label": "야놀자 호캉스 15% 할인코드",
+      "cta": "야놀자 15% 쿠폰 받기",
+      "url": "https://3ha.in/r/686504",
+      "network": "3hoursahead.com (야놀자)",
+      "status": "active",
+      "updated": "2026-09-10",
+      "keywords": [
+        "야놀자 할인코드",
+        "야놀자 쿠폰",
+        "레저 특가"
+      ]
+    },
+    {
+      "key": "sunmool-coupang-aesop-room",
+      "site": "present.tipspedia.kr",
+      "category": "gift",
+      "label": "핫템 이솝 올루스 아로마틱 룸 스프레이 100ml",
+      "cta": "쿠팡에서 가격 보기",
+      "network": "coupang",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF5563346&subid=sunmool&pageKey=7212329043&itemId=16989887512&vendorItemId=92703083542&traceid=V0-153-8fdeabaeff8cea10&requestid=20260911145031939115349457&token=31850C%7CMIXED&pt=0&slot=7",
+      "status": "active",
+      "updated": "2026-09-11",
+      "checkedAt": "2026-09-11T05:50:20.992Z",
+      "keywords": [
+        "이솝 올루스 룸스프레이 100ml"
+      ],
+      "source": "Coupang Partners API via linkmgr",
+      "product": {
+        "id": "7212329043",
+        "name": "핫템 이솝 올루스 아로마틱 룸 스프레이 100ml",
+        "price": 74000,
+        "imageUrl": "https://ads-partners.coupang.com/image1/hlRduUUkvYb-4NvHhu4bptDc6gPDqFW9aQ3UpQlyt28kffvlMjU7AQxtE0cnQjj1J5cpBKBm5fKLZE9qLY338zJSnGW5kfgC_ZmUa4ZmMbOk9UnG6f9hxlZMUtRxq6GgBzYwedApQfk9MwkjJsac0HcnNgHS-0yMfpodPF7YAykQ0BhWoU2C8uuPkwn-eq1wkSZswkFfDfdrJnuZnjgBZsvQodUO-AyjRfLwS5S7v1Y71VkJwMs5qEXdlrjwJDOifYD3ThfLqcgxU8dOAYy_XElinZ7o-LCN98CuFElchWLFFZrwLQJq8WwcL39c0nyXdiqPMl9LlxLQA6BSu-awxO2QrqFywhVadRtIeeUOKbefM0DRM8-3YJt3-NpjgC5CNSKi6Nv4HRfJOwGTFJsDLNnGd3JiEeVlTHkePGeBaMBaxZw1cQ1dWisUdR5wJEcTb-pIiYl1fkAfvxTZ9dU7vjUFJClw5VlluGp0hg-4iNv2OuibWknUC6pDtjy_7lS_0SGIaq9Z5QjMkqpwP0U4ocAH_oF4HKroHR-NlNzaGBf-G69YZKvJo1RE",
+        "isRocket": false,
+        "isFreeShipping": true,
+        "brand": "Aesop (이솝)"
+      }
+    },
+    {
+      "key": "sunmool-coupang-redginseng",
+      "site": "present.tipspedia.kr",
+      "category": "gift",
+      "label": "정관장 홍삼정 에브리타임 리미티드  30포 정관장포장 쇼핑백증정",
+      "cta": "쿠팡에서 가격 보기",
+      "network": "coupang",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF5563346&subid=sunmool&pageKey=7713557340&itemId=24159395459&vendorItemId=91786923982&traceid=V0-153-3830491e47150d01&requestid=20260911145045490324760862&token=31850C%7CGM&pt=0&slot=1",
+      "status": "active",
+      "updated": "2026-09-11",
+      "checkedAt": "2026-09-11T05:50:20.992Z",
+      "keywords": [
+        "정관장 에브리타임 리미티드 30포"
+      ],
+      "source": "Coupang Partners API via linkmgr",
+      "product": {
+        "id": "7713557340",
+        "name": "정관장 홍삼정 에브리타임 리미티드  30포 정관장포장 쇼핑백증정",
+        "price": 119000,
+        "imageUrl": "https://ads-partners.coupang.com/image1/JSsqiIyhQA38hXsGJeusnSCWRtN8T0N1Mv7SzsywPQ30XQsSNOH2OU0kP5qyFThw_ZwvUxtPutl7L9x51yHdJDlfEXWNr2s4GfuleXAZOutWmbo9cLZkaV2xcUyaXvf0jzFJcAsmKlJwFSGNW1Ao0TeLPdPkVmZTv5Cq_4ec807Fm3HYwXv6s2Q21aTaj_Ll1_s0cZQXhhez2sBN-QCgoVGOWn91g5viWQ06lv70DpjnPXZmms7-0R2lRSds8_Fu_RKAtpAUOwHSdqMQ352RTTDsdAwxNcFaGkoNyyYhrkyL3MqL6Iz9ZwokA3AkR2Y-ITpDfs-pW7qprgLbiTP4Biv6VqjSyPmc-5otxAmHKug9Z7qyHs60yOv4xIzjTeXwA8JqnveRHtFJv7xE3fbiiJwuvtom4wM6LDznKRarv1nT_K_xafBs11koXhBiEWeyxktP8E7kNOCcRNkvqnuV_KNTuzMIAvNPylT6aMXFcQKi9rYBNPIZmpYl3WW7_BldCP9Dsu1qfXzerm6pFayMqXR9roaz4pcRiwwRDXDWxbPwTDuXhUo=",
+        "isRocket": false,
+        "isFreeShipping": true,
+        "brand": "정관장"
+      }
+    },
+    {
+      "key": "sunmool-coupang-pulio",
+      "site": "present.tipspedia.kr",
+      "category": "gift",
+      "label": "풀리오 종아리 마사지기 V3",
+      "cta": "쿠팡에서 가격 보기",
+      "network": "coupang",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF5563346&subid=sunmool&pageKey=9572321950&itemId=28571335105&vendorItemId=95515698293&traceid=V0-153-6c414ae26207db5b&requestid=20260911145052176153059270&token=31850C%7CMIXED&pt=0&slot=6",
+      "status": "active",
+      "updated": "2026-09-11",
+      "checkedAt": "2026-09-11T05:50:20.992Z",
+      "keywords": [
+        "풀리오 종아리 마사지기 V3"
+      ],
+      "source": "Coupang Partners API via linkmgr",
+      "product": {
+        "id": "9572321950",
+        "name": "풀리오 종아리 마사지기 V3",
+        "price": 129500,
+        "imageUrl": "https://ads-partners.coupang.com/image1/4h2CnRuYIXV4rtjS4iU1t8QIVZq1E5qZyYDk9gmjNPi8uQzqU7m4x61uXbKxfT8LVpKL_iObb4jxsqQhXLIbnOkb_rCin4MPzk6WATCGMzolbGu4zT11BUgK4J92S1-oHYot3Ck6aXRJl-qlhAslH-Er4nDo9oW4tFu4Bx_Qi9GEg4DMl1ajAb-HvifVA106pCNIPG0RuZkiJ7fbhWGIO49YfP6kSpCBNpNhDYxc5qfy0oACuMGpXEY6I1APvN7p0aYlULESVLvWBSr1xF1sPnWEaBpenYA26Y4TelnOExcsgDMNJSBeCSKYvVkiipZNxBAiNqiB8_bjJd9D11g5WcHzZCMup9JSfvLPyFMq0pA94eMQPfLqqEYUW3ZpMgAQo42hD1EedtRrhOBFB34ygjYdYWJxlUCgDcc7l5J5OAOGG8KMZ7AAVQlirYrmEe68XobtZUqbqEMTi396lmMXgonqLStkGOm2IEjREwPHHIRoWp9butgvxuMfNTcGGbOlg8_Rxm3ghXCcuWtd3yniAV7yyKE7HI8nTt3r",
+        "isRocket": true,
+        "isFreeShipping": false,
+        "brand": "PULIO (풀리오)"
+      }
+    },
+    {
+      "key": "sunmool-coupang-nonfiction",
+      "site": "present.tipspedia.kr",
+      "category": "gift",
+      "label": "[정품] +-+ nonfiction 모든피부용 튜브형 논픽션 상탈크림 핸드크림 50ml",
+      "cta": "쿠팡에서 가격 보기",
+      "network": "coupang",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF5563346&subid=sunmool&pageKey=9678459036&itemId=28940588451&vendorItemId=90936670721&traceid=V0-153-19258b7e1011dd72&requestid=20260911145058792059131617&token=31850C%7CMIXED&pt=0&slot=9",
+      "status": "active",
+      "updated": "2026-09-11",
+      "checkedAt": "2026-09-11T05:50:20.992Z",
+      "keywords": [
+        "논픽션 상탈크림 핸드크림 50ml"
+      ],
+      "source": "Coupang Partners API via linkmgr",
+      "product": {
+        "id": "9678459036",
+        "name": "[정품] +-+ nonfiction 모든피부용 튜브형 논픽션 상탈크림 핸드크림 50ml",
+        "price": 27900,
+        "imageUrl": "https://ads-partners.coupang.com/image1/1Z3JbVSmPq_QfWHj1TzEjk3MStuxgs3ZI04znY9Xg83Qnikw0COZPVbwYgeTdm7h9K64HNqhEepWqR0l0jEl0pZ3u8kW3sXhCyawkedj5v-Qvl5so37KqOGawmWzHJJH_N5DOmN6ZE-W2uGTkkZmwniRu2PgnckvVB1LHjooutAdhN2kO36dys-5yMqRnAO0eXVo_WPCb4ZqTeiuflA0Qiz_oC5TRnfVwoUEJLtyOoLkCnihPrgxsE1oqH53NKgX7Tl2GQvk4XU5aFDpa_ko5Ie5LXv1MTYWtsuiAamEt5hp-58e28sqGmA6uMLFCXNn2J0Cps9sdV2ZpjthEb6EQ3MmVL4p3iCCQh9Op9tLcEBGyhejoLZ37Z3I7pMeFvf18EUgxbaIA2YSk8ANEMRzsDEeulRpk2kFTPEXsqbeLfBGdzZ7Zuks7j_FqC2Dg6gVkd-WWHZBSVh8Qhu3w_v6LEcyAQIQSIbDLuiUL2YslRoIALALmnte4ZoLGNGqYU8RNroD1dtUV5HB_DpCWBIOjCxJPpY2xH8osZbXTiwW0HfdAdGt3V9m15Q=",
+        "isRocket": false,
+        "isFreeShipping": false,
+        "brand": "NONFICTION (논픽션)"
+      }
+    },
+    {
+      "key": "sunmool-coupang-kinto",
+      "site": "present.tipspedia.kr",
+      "category": "gift",
+      "label": "KINTO (킨토) 투고 텀블러 360ml 플러그 첨부 화이트 20441",
+      "cta": "쿠팡에서 가격 보기",
+      "network": "coupang",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF5563346&subid=sunmool&pageKey=6834664090&itemId=23917432909&vendorItemId=90939723371&traceid=V0-153-f78e4e9fe358d605&requestid=20260911145105838153054017&token=31850C%7CMIXED&pt=0&slot=10",
+      "status": "active",
+      "updated": "2026-09-11",
+      "checkedAt": "2026-09-11T05:50:20.992Z",
+      "keywords": [
+        "킨토 투고 텀블러 360ml"
+      ],
+      "source": "Coupang Partners API via linkmgr",
+      "product": {
+        "id": "6834664090",
+        "name": "KINTO (킨토) 투고 텀블러 360ml 플러그 첨부 화이트 20441",
+        "price": 49460,
+        "imageUrl": "https://ads-partners.coupang.com/image1/0VHNMqWTdOTEM4SA0b732CibL5V-l-rYajVJrYNBq8_QnKVnEOVDfjoDu3e__pUNtjW8p-bdyQmiauFIt0y_tplRy_W2lg2LIMVnnrrdzCDD5U8U0vaoa8Ey7hf9aP6j4306w3M_Sm0qUwfKw2F5drWoHTqllxgXcT2brwChGUKOx_ae0LNKp0-pQW3olJsfSoIFVBL64eHXBphxnN751PEEQgwjynJdLCa_H2cCv8ZXiwkCuD-V-PShuPMfkNEOlAZKzJQJ5znmJqgy4hWkqv4Eq1efwrcMTKG13cUFJqhTA0V_CUP7mSq4iPHRtHsAqZo1exEznjw4ahRfpuARIa6EatN040i4BnpL2PzwV057pPuVFDbM5lK7dNmfkd5x2eaP6EprDSAVi0rqG2bTmUO1CJOcM5XEbUbCirKaGljZs6DiYTiV5tAwySI_DTQkQl9Dy9vayMpijKyuxoVxnuIGycJHH71pGIYb3xCKB5pgtwa9b_r4edDaeFcnxaIVNc5UU-ikIsVuUv2EXc75GfkuJzzA49IKxsq-UQpE-2tItAmE_IarCNoRUA==",
+        "isRocket": false,
+        "isFreeShipping": true,
+        "brand": "KINTO (킨토)"
+      }
+    },
+    {
+      "key": "sunmool-coupang-lexon",
+      "site": "present.tipspedia.kr",
+      "category": "gift",
+      "label": "LEXON MINA 렉슨미나 M 무드등 집들이 결혼선물 인테리어 조명 - LH64",
+      "cta": "쿠팡에서 가격 보기",
+      "network": "coupang",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF5563346&subid=sunmool&pageKey=8491835784&itemId=19529383206&vendorItemId=84596526740&traceid=V0-153-8aff8d003c6843fe&requestid=20260911145112516044779107&token=31850C%7CMIXED&pt=0&slot=3",
+      "status": "active",
+      "updated": "2026-09-11",
+      "checkedAt": "2026-09-11T05:50:20.992Z",
+      "keywords": [
+        "렉슨 미나 M LH64"
+      ],
+      "source": "Coupang Partners API via linkmgr",
+      "product": {
+        "id": "8491835784",
+        "name": "LEXON MINA 렉슨미나 M 무드등 집들이 결혼선물 인테리어 조명 - LH64",
+        "price": 72000,
+        "imageUrl": "https://ads-partners.coupang.com/image1/RbCsuPnEOVvfPyvORQaV1Q0jNysXcwbE_sERiwNWoDMxHj_zpbROD_EQsKuyoixybsJYNV-ITz0wuxNzpu_meMql2LQDKWzcCOMtV-58ex-odf_1izKcT67P-na5ypLcGazKUDi00B3NaEVITe5rw3miK4GgRkxTm4zclpt2vNFdXFymN50aLcPA-MQemYzPagKHr_ndZHakghcgJxbrEIHUTo0WRrhiRGzdIg6Rn6BjFIqqURuecahuCFvuueNhx467KcUIkZdfRdJXZfrYVoL06t_zzpt5eQNnVEbbwuUhzdOtP1lgK4UuAxFfwOdQpPb3hQ44_1L7qAk0SrqX9fCFMU3Itnc1AHCs8Itr55L323nqLGb6OF_oEBTbN28uDhBHEeLZOj-jfxaCO4zmgQWsyy4Be8SyYuTNis2icYAhujxgSEN4rdqZ2Uc98kf41Rahy7gXgHjTam8Z_jglwWrNEWLc3wZsEWgkz15gY_XxuEJIongILicMSnRL_5SlTdLnjKYWmn3KzMafwK_RO26rjVTytRbs7Yg320SNlnL7u1b8BDkziFCi",
+        "isRocket": false,
+        "isFreeShipping": false,
+        "brand": "LEXON (렉슨)"
+      }
+    },
+    {
+      "key": "sunmool-coupang-medicube",
+      "site": "present.tipspedia.kr",
+      "category": "gift",
+      "label": "[본사 정품] 메디큐브 부스터프로 미니",
+      "cta": "쿠팡에서 가격 보기",
+      "network": "coupang",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF5563346&subid=sunmool&pageKey=8464437029&itemId=24489528784&vendorItemId=95125758418&traceid=V0-153-a8042f67825773ac&requestid=20260911145126149051124783&token=31850C%7CMIXED&pt=0&slot=8",
+      "status": "active",
+      "updated": "2026-09-11",
+      "checkedAt": "2026-09-11T05:50:20.992Z",
+      "keywords": [
+        "메디큐브 부스터 프로 미니"
+      ],
+      "source": "Coupang Partners API via linkmgr",
+      "product": {
+        "id": "8464437029",
+        "name": "[본사 정품] 메디큐브 부스터프로 미니",
+        "price": 106310,
+        "imageUrl": "https://ads-partners.coupang.com/image1/mGGs4wPjleDonqevmHIh_ll9lfeYdp7YzkMfrQa0OiQisrDvPJgp3pnXykx6w6CZsUXxLR4CN5fz9_lDSEe6gSixOLnw_Ney7cwDLrYCRcPiBYHJvANUZ1Nqae-7muvtXQFXJz33Xf2FeMfe3HiJpCdTuhQXPP0nhtiAWbkky884k3T5xRhqi5gc0-QG8DtIQb6cwLiKtNbtGB9IBx9qaLE2ep0sEM5OcfNHjEjRiR-PnURSnnmHMJ4fXJB83CkiZT6kG0uSRQdtI1nxjF9oDu3NSqKvK4TugqIGEDR9Jt64BmleeSHbL71xTxfCmo-hePXorCttWQlUOGQTbbPKHt1G2HSolvW7Hqc9lUjf3ETQA49WB9tPYPewpSoTrcM_ewf_YZ7P5c4W95u7DU8Gd6zsWeIoZ2rZrTfrYm496VL45uHB18ewWUfZJAYwOGjknT2nGbaL6gxInpkVHuBZKobR_nxDIOV8SUIJit_2PHsfn2QufMsmm_ooFz4LXppVsjoJar8UDPh1F0_71P73GewAs5fyza-E1_bbtL_i7jqHa2CE4rJqR_DrZw==",
+        "isRocket": false,
+        "isFreeShipping": true,
+        "brand": "medicube (메디큐브)"
+      }
+    },
+    {
+      "key": "sunmool-coupang-aesop-travel",
+      "site": "present.tipspedia.kr",
+      "category": "gift",
+      "label": "이솝 어라이벌 트래블 키트 여행용 바디용품",
+      "cta": "쿠팡에서 가격 보기",
+      "network": "coupang",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF5563346&subid=sunmool&pageKey=9037380649&itemId=26513528023&vendorItemId=93488035636&traceid=V0-153-4733ace06d38f461&requestid=20260911145132761059132553&token=31850C%7CMIXED&pt=0&slot=3",
+      "status": "active",
+      "updated": "2026-09-11",
+      "checkedAt": "2026-09-11T05:50:20.992Z",
+      "keywords": [
+        "이솝 어라이벌 트래블 키트"
+      ],
+      "source": "Coupang Partners API via linkmgr",
+      "product": {
+        "id": "9037380649",
+        "name": "이솝 어라이벌 트래블 키트 여행용 바디용품",
+        "price": 61000,
+        "imageUrl": "https://ads-partners.coupang.com/image1/OlZew1Oj1uu8Rm2QOrkYr5dnL4y7D_6L10hDZFwxR_LbuCbF2ShXosf61tFpFp3ilP2tNN7WdiTmI7DOvoNkNkPjjaWgZHzx70N_ZjYN9sRJK5NbRBPtb_Fvo5OFIgvAlAgh27qpkmmavO4yUHoPEp8z2G0NIc_ZuT6NYmpG_bvSgfW_bfJYE561suIsERdIjXGIglRWJHGWvqQnjhXfBb2MiGX_3LOJanfBYlm0xHkc2Ph-8xa_3yLY44stYyPrhgRXWioL9qNvmHPPDk3Yss9lIiIoA4mI4_4pP4C3A6rbzDcopTVi9ubDXunJ3VeNBtswXWiu8atHrBXHCz_85FlAEgFgdEplgHDEBunapwR-OdUFQrjY-kgqHtvuADlXbdHwMeqZI9_xDgpQoKyeyAx6z3dpZ0LGJxoIosJPwBEmKK96uYHc2ckICOQuna780euqrMMUTdrT4OWP01AHRQL-r6QzIBz_mxfxAi9RcIoJ_LbG6b8uzppis8_RrV5qK9n-OAfAQU9kUwZOv5f28k639eo-8WdydEoOM7q51XoVTuDd1vbvgIw=",
+        "isRocket": true,
+        "isFreeShipping": true,
+        "brand": "Aesop (이솝)"
+      }
+    },
+    {
+      "key": "sunmool-coupang-nespresso",
+      "site": "present.tipspedia.kr",
+      "category": "gift",
+      "label": "[공식판매처] 네스프레소  버츄오 팝 GCV2 에스프레소 캡슐커피머신 코코넛 화이트+레몬즙 패키지",
+      "cta": "쿠팡에서 가격 보기",
+      "network": "coupang",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF5563346&subid=sunmool&pageKey=9708551484&itemId=29046405345&vendorItemId=85390118963&traceid=V0-153-23dd9204e7f178f0&requestid=20260911145146299319284357&token=31850C%7CMIXED&pt=0&slot=6",
+      "status": "active",
+      "updated": "2026-09-11",
+      "checkedAt": "2026-09-11T05:50:20.992Z",
+      "keywords": [
+        "네스프레소 버츄오 팝"
+      ],
+      "source": "Coupang Partners API via linkmgr",
+      "product": {
+        "id": "9708551484",
+        "name": "[공식판매처] 네스프레소  버츄오 팝 GCV2 에스프레소 캡슐커피머신 코코넛 화이트+레몬즙 패키지",
+        "price": 82000,
+        "imageUrl": "https://ads-partners.coupang.com/image1/7MKKuM_JMmGRErJL7JLzfn5CucMRNgiiQm0H8HabQchyvygaTwKA4-OEpmrdX00J0cn8VpZRSoK_kWci85Q_XLtXeY-b5Epu4IAh5DA4Jl7X2M6S5Qg0I5T1yW0zbNaRlBxn14ahVgK1OvR2oTpJQtBvFAgfpyUaPGB4CGk4BR81IdqVEFM5VXL93u4Pza8Rmutd3FPigK6Hfbb1DZfdVc_YF64AzT6nBH4_uSVFnTVEZVHNPGTES_TomNbo_y1KjBB6Y-ZVUseM0KdW9m3vRwwexngGwqYk_OilxUQPYiH8TBONGPyP5wmpKbzMAoESigXNMwdrslZDtYn6CUIYkCVdoGeUtB9GFRu026x8OCgyL0db9nOjPtWmVHOSQf6a_yD-A1PPySYrUFlmPb1bN0e4dgMy2NNxTXb-0wTO-FIC4NgQV3BPtxwd9htzOqU4L-EU7uc9GL-EHSyCo7rBY4q8Xz5_-js4LgL__vOp9szG35JxyxQMmkGUav4qwaapV-QJ_MVDaNHIUn84dKlz0WihNkL0U1DrGhDHedGbJTQoY3owaFuh7fg=",
+        "isRocket": false,
+        "isFreeShipping": true,
+        "brand": "Nespresso (네스프레소)"
+      }
+    },
+    {
+      "key": "sunmool-coupang-marshall",
+      "site": "present.tipspedia.kr",
+      "category": "gift",
+      "label": "마샬 엠버튼2 블랙 화이트 Marshall Emberton II 블루투스 스피커",
+      "cta": "쿠팡에서 가격 보기",
+      "network": "coupang",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF5563346&subid=sunmool&pageKey=8764230988&itemId=25486746804&vendorItemId=93383518168&traceid=V0-153-f7d67752278a3dee&requestid=20260911145153023211410907&token=31850C%7CMIXED&pt=0&slot=5",
+      "status": "active",
+      "updated": "2026-09-11",
+      "checkedAt": "2026-09-11T05:50:20.992Z",
+      "keywords": [
+        "마샬 엠버튼 2"
+      ],
+      "source": "Coupang Partners API via linkmgr",
+      "product": {
+        "id": "8764230988",
+        "name": "마샬 엠버튼2 블랙 화이트 Marshall Emberton II 블루투스 스피커",
+        "price": 205000,
+        "imageUrl": "https://ads-partners.coupang.com/image1/883D21k2U1RLMJrO86yf_myy2-aadXXvk3_RgUaOGlTQh1IO8etwZq_peaUoyjIhyeHhirj8fZ3IOWuj2EQsEERWDwyNvNx_ujioZaELg75asOcYVr9ozg42ghUozw4fo5NBk-5FQca8j0WFIr4ftYTYFOw8wiY6XgR4xmgUwsuhXlmEtUaxifpsH-Wd0ux065-f_WzQ6K4Ix9AQrE1aone2ueju8SIL6GiWX-PzcqBMWjCGDRiPWXVUT7mgNp6DhuaOCm5CPbYLjIZe53Jxng0yoT_gaUexnuBHpxdXNx6ktianxdsm3Fy8DFDpcK4Qwq9JGevuQi-E3exbVm2jlbARsnEkwPnFkcenTilhFcVnG-ULBD7-K0BLN1-0_tbAy_rZQKvog1HFn3tCQa1ShkKe2sMKF3yLCp_bztWMERQdXW5b4deFf-ysiMD3QppVbakWrs3A9dVfGsfOYgR-_tum96Wtq3jAlJUhv8soRiXveNaOY13XZrl5mWcHK-TRBIYOFfnOnrjBzrEX3rfPD1OMto0ErypdDlG3EzIsYEwQzwvYW1FD",
+        "isRocket": false,
+        "isFreeShipping": true,
+        "brand": "Marshall (마샬)"
+      }
+    },
+    {
+      "key": "sunmool-coupang-orthomol",
+      "site": "present.tipspedia.kr",
+      "category": "gift",
+      "label": "오쏘몰 이뮨, 30정, 1개",
+      "cta": "쿠팡에서 가격 보기",
+      "network": "coupang",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF5563346&subid=sunmool&pageKey=7437344570&itemId=7877577488&vendorItemId=95810191859&traceid=V0-153-10183e309add1c2f&clickBeacon=e7a618a0-ada4-11f1-bf52-bad9f0f42c26%7E3&requestid=20260911145159720076631420&token=31850C%7CMIXED&pt=1&slot=1",
+      "status": "active",
+      "updated": "2026-09-11",
+      "checkedAt": "2026-09-11T05:50:20.992Z",
+      "keywords": [
+        "오쏘몰 이뮨 30일"
+      ],
+      "source": "Coupang Partners API via linkmgr",
+      "product": {
+        "id": "7437344570",
+        "name": "오쏘몰 이뮨, 30정, 1개",
+        "price": 97540,
+        "imageUrl": "https://ads-partners.coupang.com/image1/J7xh_RoY_s-p8RFMJ0Fg3GQdBHVzc7y5T8XcuwqbQ4CcDTefdblm6_0lK0pB_QRSaTlTY2tcPdxG3AIreL8JT4i3Ex2b7RaNp4cCRHZPUOoLsmILK5crkmP3GB-lPVdQQCu23Gye-_KZP8AJN4Q0v5ka2k9E4QmzIFjedIFy_-rchZbV_6Ijw5D_WSxDl1F4XlAue6Jtkl0ffptKumblwRkG1v6xsnQh7MEpTxkQ6fcA-HFTEua3mQUlUnjhTlgN92M9KVw9poUIKKW7G45GaKt6XaXsbnvzTzIfX9cBpwa-Anyn0lxbGXUQpnkCUVB2orXpOZjlXOUrw8xI85ZYLttp0ebqeEP3YTLJhH4yLA3A9zc9MUoR77twtFqsJnz1hdXdmmNgDps09nawG4MHCP24Puar-F0HWrwSKjL2PKwwhqFpnSwl2VMoOWp3JlxnQ9MCAdjAUaLes0cXBexuE0HGaI2bBAsA5RkQ_4qjPE5yk1kmGJse2g3rZQFOFM5_VADWBBiBSyZENn1bNYM_JH3zJtqB2EpgR63rv2gNTA==",
+        "isRocket": false,
+        "isFreeShipping": false,
+        "brand": "Orthomol (오쏘몰)"
+      }
+    },
+    {
+      "key": "sunmool-coupang-diptyque",
+      "site": "present.tipspedia.kr",
+      "category": "gift",
+      "label": "[정품] 딥티크 캔들 베이 190G 딥디크 향초 국내배송 빠른배송",
+      "cta": "쿠팡에서 가격 보기",
+      "network": "coupang",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF5563346&subid=sunmool&pageKey=9505128344&itemId=28320968313&vendorItemId=95273539064&traceid=V0-153-e066610d36aa1572&requestid=20260911145206457211415215&token=31850C%7CMIXED&pt=0&slot=5",
+      "status": "active",
+      "updated": "2026-09-11",
+      "checkedAt": "2026-09-11T05:50:20.992Z",
+      "keywords": [
+        "딥티크 베이 캔들 190g"
+      ],
+      "source": "Coupang Partners API via linkmgr",
+      "product": {
+        "id": "9505128344",
+        "name": "[정품] 딥티크 캔들 베이 190G 딥디크 향초 국내배송 빠른배송",
+        "price": 73800,
+        "imageUrl": "https://ads-partners.coupang.com/image1/--7VZ4k8Anxf7o56-7346evEyk30ixOOFnPzIc0CaRpy6_F4fMC99K26M5muJuJseKc9EHwuRqL_qGaOrWS9UgoGOPYyXFOKwkAhGRsk65j5lFffr0Sj5JzloYTxTm4LZjCZVBLbyRLPMp58Zjl2gSORXlxorPBXb7qzjYwvXg4S5HvaG_Yka8tZIP7RelCgKvZP4IJU3B8Bv1HtjkBkxo2T_nk5Dx3UdPUj4S-imsVtpBa-UVQ2c-yTodW3JqiMLc9hTJMY3kIfxkYPp8Fjb129yQN_XRiPBdcJkeYg0cBnjFCRFXLFx6hOLyZyzGVcBWTPdqz8gTGQgxw2d7zmORDhZVODfpDqxOP93UuBl4dCdG-drPBv5OrxN9EKxVi3ngZFneFy-NbciPdQc4GR90B99N-o9w65iLcloIGsvxzgFPeCs7FQ2Xhwr9Gsw3E5Ma6BaAR8TRZA6eR-rbC-mObWkgZ0-myuSyt0OBbcdTmEoHjRlrZ1svYTIJHq8PuccHoLjZSEqLNWUaeYbJoOjJ3HjCjPG7vJRv71KN3RAh6EoemnXvB3VyU=",
+        "isRocket": false,
+        "isFreeShipping": true,
+        "brand": "Diptyque (딥티크)"
+      }
+    },
+    {
+      "key": "sunmool-coupang-nonfiction-duo",
+      "site": "present.tipspedia.kr",
+      "category": "gift",
+      "label": "논픽션 상탈크림 핸드크림 앤 비건 립밤 듀오 50ml + 3.5g",
+      "cta": "쿠팡에서 가격 보기",
+      "network": "coupang",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF5563346&subid=sunmool&pageKey=9469719365&itemId=28695461007&vendorItemId=95636653135&traceid=V0-153-d7c7e41ddea026df&requestid=20260911145213151180117234&token=31850C%7CMIXED&pt=0&slot=6",
+      "status": "active",
+      "updated": "2026-09-11",
+      "checkedAt": "2026-09-11T05:50:20.992Z",
+      "keywords": [
+        "논픽션 핸드크림 립밤 세트"
+      ],
+      "source": "Coupang Partners API via linkmgr",
+      "product": {
+        "id": "9469719365",
+        "name": "논픽션 상탈크림 핸드크림 앤 비건 립밤 듀오 50ml + 3.5g",
+        "price": 41000,
+        "imageUrl": "https://ads-partners.coupang.com/image1/-ThXZaUOgG5ytPgf-Ue4eLqMP_2ADvOFnFnHcT3ONPWAVSynwgTI0aZSoUJFRaBngwg6mUscd_5Yln1iO5JtjrD4yb5IIHfr4D3JDBEsgdPJ_JS0GpgPxAcFcWGzBMT30ADm2LB7FYLcZ5-zFdkJmyATYKZXQQ65JwoXyvCa-UQKg8SryT7pz9s6U87Suc9i3xJmxMpDCZOb-CftDKn58yK8dpr0idz5IiA5Lxxgk3mqbdXT4BoQE-dbZ6ElwGSDczEpYHlWZTdmTnf8WuqZ9CYnSgcgrPukLwyGg0qJkZKAKXJPy8f-FFR2iCszIhGioVIFHjsEGAqav43ybG2dl0K0_T7v1TMlOSerrZqCfnI-LiYPNvzIC7hWu43szhAlU0VkLQDq0qfJ7NHZiuB5o-jrmvDhI62-ivtB7vAjMImNc1Cl_4slUEx3WJOtv2aNyU8cl-hn2pAp3E4ZJhPznIYHWTqV9uBixJLg6mS0Dn1aTTdIBwVR0CCteUykvdsTMqDn1O8NO9U-NP1WUEbj1nVWd-jY3thY7i0=",
+        "isRocket": true,
+        "isFreeShipping": false,
+        "brand": "NONFICTION (논픽션)"
+      }
+    },
+    {
+      "key": "sunmool-coupang-loccitane-shower",
+      "site": "present.tipspedia.kr",
+      "category": "gift",
+      "label": "록시땅 쎄드라 샤워 젤",
+      "cta": "쿠팡에서 가격 보기",
+      "network": "coupang",
+      "status": "active",
+      "updated": "2026-09-11",
+      "checkedAt": "2026-09-11T05:50:20.992Z",
+      "keywords": [
+        "록시땅 꺄데 쉐이빙"
+      ],
+      "source": "Coupang Partners API via linkmgr",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF5563346&subid=sunmool&pageKey=9710490114&itemId=6031464694&vendorItemId=92775254013&traceid=V0-153-cda0e3a137a943ab&requestid=20260911145025176096117642&token=31850C%7CMIXED&pt=0&slot=2",
+      "product": {
+        "id": "9710490114",
+        "name": "록시땅 쎄드라 샤워 젤",
+        "price": 33000,
+        "imageUrl": "https://ads-partners.coupang.com/image1/SL8Tnm0fHjDdunP3SKFQNYMq42CMt8-z8lpZzGB_pcB6H1MqjFDMUfrEIuoZj3wJwxTMx5Ub0ByElF8HmZAjTo9GA4oHS0D2i44w3P4j5p17JSIi51_ULe0BDZwhMBJjZnqR6_t5e1adIO87z3HZ5UctTdPOi40GtATbtGUxoKjjUcrx8Z4gL93yFYDwZv10s1J6OrlPeUlm6aroS8cvMR1h1Ko8Epp02CPVBgb05mnxbW2YMUfIfsH01qS8N8WLc8x4k48i_OINOfmBPoajuOgnUpm5QeR-T592egROr6c-zwF6HLRnq6zTBvdPqrI5cseCMrYSk6g6YdtA4UepelxB24CV58DYLTn8jAfYzC0IXgFzTSI9KqyPWjURvxo5tn3EVfMmEg0N2R1A5ieP7ZHIKwSRmIWci9Hy41IKMJad-8860za7c8zCGCEa4w3V57pkZA1tEmLOkm9eFqmxKAzd6QIx4dTbD9-0NdLVIdc1z4ierBrP_uDKSLIpwwm9UmdBQd7p74qSkDbkKZ_wFwoot1G5b1z2h4SzBTwQ650nuFFgSg-MivpPrHekMhAGfkYrK8jGydGjhLXQxSpgKfszrrSUzwJVGiGNAeD1shfZG5M=",
+        "isRocket": false,
+        "isFreeShipping": false,
+        "brand": "록시땅"
+      }
+    },
+    {
+      "key": "sunmool-coupang-kinto-bottle",
+      "site": "present.tipspedia.kr",
+      "category": "gift",
+      "label": "킨토 투고보틀 360ml",
+      "cta": "쿠팡에서 가격 보기",
+      "network": "coupang",
+      "status": "active",
+      "updated": "2026-09-11",
+      "checkedAt": "2026-09-11T05:50:20.992Z",
+      "keywords": [
+        "킨토 투고 텀블러 360ml"
+      ],
+      "source": "Coupang Partners API via linkmgr",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF5563346&subid=sunmool&pageKey=6188307023&itemId=7991154063&vendorItemId=94676811315&traceid=V0-153-9cff1cef73edba4f&requestid=20260911145105838153054017&token=31850C%7CMIXED&pt=0&slot=6",
+      "product": {
+        "id": "6188307023",
+        "name": "킨토 투고보틀 360ml",
+        "price": 23900,
+        "imageUrl": "https://ads-partners.coupang.com/image1/pDrtTB5O4nqDNgTVpEkhj6by3KgqWneBqCAk_k3q_itqHwRzy-ubtRiZWTkZpMO29gxmd59BCrCB9EJ82ty6G8l1O8PG-Rb7ynsJhHlxzH2qIK-n_6h5iFTTjliK7-6n4N0Xr_-wWZ36llmL3aJ5nlApS6Rj4gMtX5Ho5AZgx4_hR0eScXtYEycIqmXOkeMY8IrcO7qbfXtiOJV_0PGHik6O7Wn-GYdq0aYz1pjliN0yLdfhxgyj_SL5EjLXqpGvT0T59WGyu8lfBEh0avAQh7Di4P3mt89-okbTWtpUobenK2zamnpXAxnyVHfPY5wr8xSR63Okl-rzBKtHuP9xqGFZFvoaiPji63w1tJCPVoZ1Jqu9jij6zD3hRTNnCpFoGA7Oc0XvjZhBqQaVqU7GepWu6dUsT0yqDNqatHOtpooP7HNHKfuocl2x16DUTewRbubfGFIS4ntxElDhQzVfH3LqA6aZlu53yxUBbKitNNnTho7alV_DjWf886Ii0FVz6zMK1CZ-YctKUJE9eiiqGY9c0uNy6dFZ04Dt40CDbd7j13iEST_d_4I=",
+        "isRocket": false,
+        "isFreeShipping": false,
+        "brand": "KINTO (킨토)"
+      }
+    },
+    {
+      "key": "sunmool-coupang-arkdi-packing",
+      "site": "present.tipspedia.kr",
+      "category": "gift",
+      "label": "아크디 여행용 압축파우치 7종 세트",
+      "cta": "쿠팡에서 가격 보기",
+      "network": "coupang",
+      "status": "active",
+      "updated": "2026-09-11",
+      "checkedAt": "2026-09-11T06:11:59.819Z",
+      "keywords": [
+        "아크디 여행용 압축파우치 7종 세트"
+      ],
+      "source": "Coupang Partners API via linkmgr",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF5563346&subid=sunmool&pageKey=9485452567&itemId=28245857426&vendorItemId=95199330549&traceid=V0-153-6ade8edc0261130f&clickBeacon=c1c31f90-ada7-11f1-92ed-4c51d7385802%7E3&requestid=20260911151224584127397417&token=31850C%7CMIXED&pt=1&slot=1",
+      "product": {
+        "id": "9485452567",
+        "name": "아크디 여행용 압축파우치 7종 세트",
+        "price": 23600,
+        "imageUrl": "https://ads-partners.coupang.com/image1/eS6kawTNSosomts6eXZmh9-ux7f-xZA8a3pWJpkHmcqajwNbcZjLegj6Gmzh2z8-fyI-2wdurSViBa3RCvYOBd2WUZhyBOzFAILZYTqFQrVhglW5tr0bsjEuS0CkFpAlBzpOJWhc6iefFVCFM03dOi_1eGzrZEvA1r8N1d9DncrMzgT4RmIj44JeeW0uFjbdLKPJuFmOFDrlx2UN3_8u6wn4V5LW7fUCpOA_vFL_nMutl0SVeVdzh8NaQzn2_txi8ZeLy5z6Yy5ppiEQ44hS8JlIhQqMGwkIHFQaVFm7_LWqv8KY5ZS0dcbSyB0qiefhIiCt7lILY-fbHV01uFKfFW1yxZz23NHDHMmW4kOOrQ5tPbmimM992PMAioI7hzf9uXXc8Wdv9jbHG5Mr7pqDN9uCwp9gq01wlXX0gufM8ueOg01FqnhtIousUj6T-21eS3lSkS5Sh1I11F2EtUPcGL-mz2PXa-p1XwKMUpZ2pV0yKJnuH7SjzNELMqFZKa2Zf66SNfktZf-IigEHSjxkFLzfSESqwRQC",
+        "isRocket": true,
+        "isFreeShipping": false,
+        "brand": "아크디"
+      }
+    }
+  ],
+  "slug_map": {
+    "entrance-door-lock-replacement-guide": "repair-soomgo-doorlock",
+    "washbasin-replacement-drain-repair-guide": "repair-soomgo-plumbing",
+    "bathroom-tile-grout-repair-guide": "repair-ohouse-grout",
+    "bathroom-silicone-replacement-guide": "repair-ohouse-silicone",
+    "window-screen-frame-replacement-guide": "repair-soomgo-screen-door",
+    "moving-preparation-checklist": "move-compare-2",
+    "moving-company-quote-comparison": "move-compare-2",
+    "moving-day-checklist": "move-compare-2",
+    "rental-deposit-moving-out-checklist": "move-compare-2",
+    "son-eomneun-nal-moving-guide": "move-compare-2",
+    "moving-ladder-truck-cost-guide": "move-compare-2",
+    "elevator-moving-cost-conditions": "move-compare-2",
+    "packing-moving-cost-factors": "move-packing",
+    "studio-moving-service-comparison": "move-cpa-isabang-oneroom",
+    "moving-cleaning-guide": "move-cleaning",
+    "easy-interior-ideas-for-beginners": "repair-interior",
+    "interior-door-hole-repair-guide": "repair-soomgo-door-repair",
+    "interior-door-replacement-cost-guide": "repair-soomgo-door-repair",
+    "fire-door-repair-replacement-guide": "repair-soomgo-door-repair",
+    "door-handle-hinge-sagging-repair": "repair-soomgo-doorlock",
+    "sliding-middle-door-repair-installation": "repair-soomgo-middle-door",
+    "entrance-steel-gate-repair-cost": "repair-soomgo-door-build",
+    "custom-door-installation-construction-guide": "repair-soomgo-door-build",
+    "commercial-glass-automatic-door-repair-cost": "repair-soomgo-glass",
+    "custom-mirror-glass-installation-guide": "repair-soomgo-glass",
+    "kitchen-sink-faucet-replacement-guide": "repair-soomgo-plumbing",
+    "bathroom-toilet-shower-renovation-guide": "repair-soomgo-plumbing",
+    "window-sash-folding-door-repair-guide": "repair-soomgo-sash",
+    "home-repair-plumbing-estimate-guide": "repair-soomgo-leak",
+    "washer-dryer-moving-installation-cost": "repair-soomgo-washer",
+    "air-conditioner-moving-installation-cost": "repair-soomgo-aircon",
+    "wall-mounted-tv-moving-installation-cost": "repair-soomgo-tv-mount",
+    "no-drill-wall-mounted-tv-installation": "repair-soomgo-tv-mount"
+  },
+  "schema_note": {
+    "status": {
+      "active": "콘텐츠에 사용 중",
+      "collected": "미리 수집만 해둔 링크. 아직 어느 사이트에서도 안 씀",
+      "review": "문제 있음 (issue 필드 참조)",
+      "retired": "사용 중단. 이력 보존용"
+    },
+    "optional_fields": {
+      "merchant": "제휴사/광고주 이름",
+      "network": "제휴 네트워크 (tenping, dbvence, lpweb, linkmoa, ocayn, coupang 등)",
+      "payout": "단가 (예: 'CPA 15000원', 'CPS 5%')",
+      "conversion": "전환 조건 (예: '무료상담 신청 완료')",
+      "keywords": "이 링크를 붙일 키워드 배열",
+      "collected_at": "수집일"
+    }
+  },
+  "topic_map": {
+    "_note": "repair-keyword-*/regional-repair-* 슬러그 끝의 토픽 id → 링크. 규칙 구현은 isatipsadbles/lib/affiliate-match.ts.",
+    "quote": {
+      "door-hole": "repair-soomgo-door-repair",
+      "fire-door": "repair-soomgo-door-repair",
+      "interior-door": "repair-soomgo-door-repair",
+      "bathroom-door": "repair-soomgo-door-repair",
+      "door-hardware": "repair-soomgo-doorlock",
+      "sliding-middle-door": "repair-soomgo-middle-door",
+      "entrance-steel-gate": "repair-soomgo-door-build",
+      "custom-door-install": "repair-soomgo-door-build",
+      "automatic-glass-door": "repair-soomgo-glass",
+      "custom-glass-mirror": "repair-soomgo-glass",
+      "sink-faucet": "repair-soomgo-plumbing",
+      "bathroom-fixture": "repair-soomgo-plumbing",
+      "sash-folding-door": "repair-soomgo-sash",
+      "home-repair-plumbing": "repair-soomgo-leak"
+    },
+    "supply": {
+      "door-hardware": "repair-ohouse-door-handle",
+      "interior-door": "repair-ohouse-door-handle",
+      "entrance-steel-gate": "repair-ohouse-doorlock",
+      "sink-faucet": "repair-ohouse-kitchen-faucet",
+      "bathroom-fixture": "repair-ohouse-bath-faucet",
+      "bathroom-door": "repair-ohouse-silicone",
+      "sash-folding-door": "repair-ohouse-screen-door",
+      "door-hole": "repair-ohouse-sheet"
+    },
+    "regional_moving_quote": {
+      "_rule": "지역 페이지 1순위 키워드 기준",
+      "원룸/오피스텔/용달/소형": "move-cpa-isabang-oneroom",
+      "업체 비교": "move-cpa-wematch",
+      "포장이사": "move-packing",
+      "그 외": "move-compare-2"
+    }
+  }
+}
