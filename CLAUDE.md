@@ -9,6 +9,10 @@
 
 여러 사이트가 이 저장소를 pull해서 쓰므로, 여기서 늦게 push하면 각 사이트가 옛날 데이터로 빌드된다.
 
+## 새 사이트 연결
+
+`templates/sync-affiliate-links.mjs` + `templates/lib-affiliate.example.ts`를 그대로 복사해 쓴다. 새로 설계하지 않는다 — isatipsadbles/teogisa가 이미 쓰는 패턴이다.
+
 ## 절대 규칙
 
 - `data/affiliate-links.json`의 `key`(link_key)는 한 번 배포되면 영구불변. 바꾸지 않는다.

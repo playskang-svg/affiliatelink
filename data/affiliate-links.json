@@ -2078,7 +2078,8 @@
     },
     "optional_fields": {
       "merchant": "제휴사/광고주 이름",
-      "network": "제휴 네트워크 (tenping, dbvence, lpweb, linkmoa, ocayn, coupang 등)",
+      "network": "제휴 네트워크. 자유 텍스트 — tenping, dbvence, lpweb, linkmoa, ocayn, coupang, linkprice, adpick 등 무엇이든 새로 추가해도 된다. 정해진 목록이 아니다.",
+      "source": "이 링크를 만든 방법. coupang-api(오픈API) / browser-extension(크롬 등 확장프로그램으로 생성한 딥링크) / network-dashboard(네트워크 대시보드에서 수동 발급) / manual 중 하나, 또는 새 값",
       "payout": "단가 (예: 'CPA 15000원', 'CPS 5%')",
       "conversion": "전환 조건 (예: '무료상담 신청 완료')",
       "keywords": "이 링크를 붙일 키워드 배열",
