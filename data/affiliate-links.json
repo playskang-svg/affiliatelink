@@ -2,8 +2,8 @@
   "$schema": "https://adbles.com/schema/affiliate-links-v1.json",
   "version": "2026.09.05-04",
   "build": "a35f977d",
-  "updated": "2026-09-11",
-  "link_count": 103,
+  "updated": "2026-09-26",
+  "link_count": 118,
   "note": "A-Factory 제휴링크 단일 소스. 사람이 읽는 문서는 affiliate-link.md. 코드에서는 이 JSON을 import해서 link_key로 조회한다. 어느 키워드에 어느 링크를 붙일지는 각 링크의 keywords 필드와 isatipsadbles/lib/affiliate-match.ts의 매칭 규칙을 기준으로 한다.",
   "partner_id": "A100702444",
   "links": [
@@ -2032,6 +2032,260 @@
         "isFreeShipping": false,
         "brand": "아크디"
       }
+    },
+    {
+      "key": "notebook-galaxy-book5",
+      "category": "notebook",
+      "label": "[한가위 빅세일]삼성 갤럭시북5 프로360 NT960QHA-K51AG 16인치 인텔 울트라5 영상편집 코딩용 대학생 고사양 고해상도 태블릿PC S펜 터치 WQXGA+ AI 노트북, 그레이, 갤럭시북5 프로360, 512GB, 16GB, WIN11 Home",
+      "cta": "갤럭시북5 쿠팡 최저가 확인",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF5563346&pageKey=9519477561&itemId=28376563601&vendorItemId=91689912266&traceid=V0-153-11920bb2144f2f8c&clickBeacon=cd841330-b93b-11f1-b65c-9bbb25838d90%7E3&requestid=20260926084952659296881911&token=31850C%7CMIXED&pt=1&slot=1",
+      "network": "coupang",
+      "source": "coupang-api",
+      "status": "active",
+      "keywords": [
+        "삼성 갤럭시북5",
+        "갤럭시북5 추천",
+        "Galaxy Book5"
+      ],
+      "collected_at": "2026-09-26",
+      "updated": "2026-09-26"
+    },
+    {
+      "key": "notebook-galaxy-book6",
+      "category": "notebook",
+      "label": "삼성전자 갤럭시북6 14인치 울트라5 휴대용 가성비 학생 새학기 노트북",
+      "cta": "갤럭시북6 쿠팡 최저가 확인",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF5563346&pageKey=9647673064&itemId=28833343601&vendorItemId=95137015299&traceid=V0-153-ee848a3064d585f7&requestid=20260926084953197074466024&token=31850C%7CGM&pt=0&slot=1",
+      "network": "coupang",
+      "source": "coupang-api",
+      "status": "active",
+      "keywords": [
+        "삼성 갤럭시북6",
+        "갤럭시북6 추천",
+        "Galaxy Book6"
+      ],
+      "collected_at": "2026-09-26",
+      "updated": "2026-09-26"
+    },
+    {
+      "key": "notebook-lg-gram",
+      "category": "notebook",
+      "label": "전시몰닷컴 그램15 코어i7 윈도우11 설치완료, 화이트, 15ZB95N-i7-NP, 512GB, 16GB, WIN11 Pro",
+      "cta": "LG 그램 쿠팡 최저가 확인",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF5563346&pageKey=9672001354&itemId=28918870368&vendorItemId=95903880638&traceid=V0-153-737a72903b9b1bf0&clickBeacon=ce130cc0-b93b-11f1-bc21-d01f2b8adcca%7E3&requestid=20260926084953615233002188&token=31850C%7CMIXED&pt=1&slot=1",
+      "network": "coupang",
+      "source": "coupang-api",
+      "status": "active",
+      "keywords": [
+        "LG 그램",
+        "LG 그램 추천",
+        "LG gram"
+      ],
+      "collected_at": "2026-09-26",
+      "updated": "2026-09-26"
+    },
+    {
+      "key": "notebook-macbook-air-m5",
+      "category": "notebook",
+      "label": "Apple 맥북 에어 13 M5칩",
+      "cta": "맥북 에어 M5 쿠팡 최저가 확인",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF5563346&pageKey=9410641464&itemId=28077990409&vendorItemId=95034494572&traceid=V0-153-dac07d01f936a656&requestid=20260926084954792207480027&token=31850C%7CMIXED&pt=0&slot=1",
+      "network": "coupang",
+      "source": "coupang-api",
+      "status": "active",
+      "keywords": [
+        "맥북 에어",
+        "MacBook Air M5",
+        "맥북 추천"
+      ],
+      "collected_at": "2026-09-26",
+      "updated": "2026-09-26"
+    },
+    {
+      "key": "notebook-asus-tuf-gaming",
+      "category": "notebook",
+      "label": "에이수스 2026 TUF 게이밍 A16 라이젠7 라이젠 200 시리즈 지포스 RTX 5060, 예거 그레이, FA608UMI-TU196, 512GB, 16GB, Free DOS",
+      "cta": "ASUS TUF Gaming 쿠팡 최저가 확인",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF5563346&pageKey=9510131398&itemId=28339592232&vendorItemId=95291831595&traceid=V0-153-1700fd37014b8b52&clickBeacon=cf15d6c0-b93b-11f1-8563-100d4a38f628%7E3&requestid=20260926084955245064576542&token=31850C%7CMIXED&pt=1&slot=1",
+      "network": "coupang",
+      "source": "coupang-api",
+      "status": "active",
+      "keywords": [
+        "ASUS TUF Gaming",
+        "ASUS TUF 게이밍",
+        "에이수스 게이밍 노트북"
+      ],
+      "collected_at": "2026-09-26",
+      "updated": "2026-09-26"
+    },
+    {
+      "key": "notebook-asus-rog-strix",
+      "category": "notebook",
+      "label": "에이수스 2026 ROG 스트릭스 G16 라이젠9 라이젠 8000 시리즈 지포스 RTX 5070 Ti, Eclipse Gray, G614PR-TS126, 1TB, 16GB, Free DOS",
+      "cta": "ASUS ROG Strix 쿠팡 최저가 확인",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF5563346&pageKey=9542578931&itemId=28465661771&vendorItemId=95416018266&traceid=V0-153-3d4a4205f36e3164&clickBeacon=cf604d40-b93b-11f1-991e-2027db4e3fa1%7E3&requestid=20260926084955778224493539&token=31850C%7CMIXED&pt=1&slot=1",
+      "network": "coupang",
+      "source": "coupang-api",
+      "status": "active",
+      "keywords": [
+        "ASUS ROG Strix",
+        "ROG 스트릭스",
+        "에이수스 게이밍 노트북"
+      ],
+      "collected_at": "2026-09-26",
+      "updated": "2026-09-26"
+    },
+    {
+      "key": "notebook-lenovo-ideapad-slim3",
+      "category": "notebook",
+      "label": "레노버 아이디어패드 Slim3 15IRH10R Pro /  Win11 / Core5 210H / 15인치 OLED",
+      "cta": "레노버 아이디어패드 슬림3 쿠팡 최저가 확인",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF5563346&pageKey=9701912142&itemId=29023084381&vendorItemId=95950746720&traceid=V0-153-ef1e7888461f6dba&requestid=20260926084956223102376270&token=31850C%7CGM&pt=0&slot=1",
+      "network": "coupang",
+      "source": "coupang-api",
+      "status": "active",
+      "keywords": [
+        "레노버 아이디어패드",
+        "IdeaPad Slim3",
+        "사무용 노트북"
+      ],
+      "collected_at": "2026-09-26",
+      "updated": "2026-09-26"
+    },
+    {
+      "key": "notebook-lenovo-loq",
+      "category": "notebook",
+      "label": "IT_로크 LOQ 15ARP9 R7 4060 Win11/RAM 16GB/SSD 1TB교체 재고보유, Luna Grey, 1TB, 16GB, WIN11 Home, 단일옵션",
+      "cta": "레노버 LOQ 쿠팡 최저가 확인",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF5563346&pageKey=8105879841&itemId=23852148743&vendorItemId=92498853653&traceid=V0-153-62d79e69cc483ec5&clickBeacon=cfe841f0-b93b-11f1-8fdc-e747f2bab587%7E3&requestid=20260926084956660186573047&token=31850C%7CMIXED&pt=1&slot=1",
+      "network": "coupang",
+      "source": "coupang-api",
+      "status": "active",
+      "keywords": [
+        "레노버 LOQ",
+        "Lenovo LOQ",
+        "게이밍 노트북"
+      ],
+      "collected_at": "2026-09-26",
+      "updated": "2026-09-26"
+    },
+    {
+      "key": "notebook-lenovo-legion5",
+      "category": "notebook",
+      "label": "레노버 2024 리전 5i 15IRX9 15.6 코어i7 인텔 13세대 지포스 RTX 4060, StormGrey, 1TB, 16GB, WIN11 Home, 83JJ0009KR",
+      "cta": "레노버 리전 5 쿠팡 최저가 확인",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF5563346&pageKey=8304549535&itemId=24578860383&vendorItemId=92507597859&traceid=V0-153-bc11e354046b8882&clickBeacon=dadafdf0-b93b-11f1-9856-befd0e73a2c7%7E3&requestid=20260926085015049083476386&token=31850C%7CMIXED&pt=1&slot=1",
+      "network": "coupang",
+      "source": "coupang-api",
+      "status": "active",
+      "keywords": [
+        "레노버 리전 5",
+        "Lenovo Legion 5",
+        "게이밍 노트북"
+      ],
+      "collected_at": "2026-09-26",
+      "updated": "2026-09-26"
+    },
+    {
+      "key": "notebook-hp-victus",
+      "category": "notebook",
+      "label": "HP 2025 빅터스 15 라이젠7 라이젠 8000 시리즈 지포스 RTX 4060, Mica Silver, 512GB, 16GB, WIN11 Home, 15-fb3113AX",
+      "cta": "HP Victus 쿠팡 최저가 확인",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF5563346&pageKey=8796868282&itemId=25610706565&vendorItemId=92601222590&traceid=V0-153-14b52c2eca7aac7e&clickBeacon=d0a4b420-b93b-11f1-8f54-14e797316bab%7E3&requestid=20260926084957914207481295&token=31850C%7CMIXED&pt=1&slot=1",
+      "network": "coupang",
+      "source": "coupang-api",
+      "status": "active",
+      "keywords": [
+        "HP Victus",
+        "HP 빅터스",
+        "게이밍 노트북"
+      ],
+      "collected_at": "2026-09-26",
+      "updated": "2026-09-26"
+    },
+    {
+      "key": "notebook-samsung-plus2",
+      "category": "notebook",
+      "label": "전시몰닷컴 노트북 플러스2 코어i5 윈도우11 설치완료, NT550XDA, WIN11 Pro, 16GB, 256GB, 그레이",
+      "cta": "삼성 노트북 플러스2 쿠팡 최저가 확인",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF5563346&pageKey=9698874375&itemId=29012199243&vendorItemId=95940290761&traceid=V0-153-c1da632f747a2efd&clickBeacon=db7cbc30-b93b-11f1-9b08-b1a6e38fe2c6%7E3&requestid=20260926085016098276546065&token=31850C%7CMIXED&pt=1&slot=1",
+      "network": "coupang",
+      "source": "coupang-api",
+      "status": "active",
+      "keywords": [
+        "삼성 노트북 플러스2",
+        "가성비 노트북",
+        "사무용 노트북"
+      ],
+      "collected_at": "2026-09-26",
+      "updated": "2026-09-26"
+    },
+    {
+      "key": "notebook-gaming-general",
+      "category": "notebook",
+      "label": "에이수스 2026 게이밍 V16 코어5 코어 시리즈2 지포스 RTX 5050, 매트 블랙, V3607VH-TK126, 512GB, 16GB, Free DOS",
+      "cta": "게이밍 노트북 쿠팡 추천 제품 보기",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF5563346&pageKey=9544631450&itemId=28474021399&vendorItemId=95424258506&traceid=V0-153-ff012363679a96ab&clickBeacon=d197edc0-b93b-11f1-8f8b-fd2ddfe0fbd4%7E3&requestid=20260926084959558134988902&token=31850C%7CMIXED&pt=1&slot=1",
+      "network": "coupang",
+      "source": "coupang-api",
+      "status": "active",
+      "keywords": [
+        "게이밍 노트북 추천",
+        "게이밍 노트북"
+      ],
+      "collected_at": "2026-09-26",
+      "updated": "2026-09-26"
+    },
+    {
+      "key": "notebook-bag-17inch",
+      "category": "notebook",
+      "label": "BAGASIN 노트북가방 서류 대용량 방수 파우치 숄더백 가벼운 맥북 삼성 보조배터리 수납정리 여행출장용 핸드백 초경량화 15-17인치, 그레이, 1개",
+      "cta": "17인치 노트북 가방 쿠팡 최저가 확인",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF5563346&pageKey=9139849854&itemId=26905829796&vendorItemId=93875251005&traceid=V0-153-6605bc51dc025f7b&clickBeacon=d1de4590-b93b-11f1-9883-d7e9c268cfd2%7E3&requestid=20260926084959959172568612&token=31850C%7CMIXED&pt=1&slot=1",
+      "network": "coupang",
+      "source": "coupang-api",
+      "status": "active",
+      "keywords": [
+        "노트북 가방 17인치",
+        "17인치 가방",
+        "노트북 파우치"
+      ],
+      "collected_at": "2026-09-26",
+      "updated": "2026-09-26"
+    },
+    {
+      "key": "notebook-stand",
+      "category": "notebook",
+      "label": "홈플래닛 와이드형 메탈 쿨링홀 노트북 거치대(높이 각도 조절)",
+      "cta": "노트북 거치대 쿠팡 최저가 확인",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF5563346&pageKey=4674285118&itemId=5848037892&vendorItemId=73146292765&traceid=V0-153-1dac7e8b98eb4139&requestid=20260926085016593002801494&token=31850C%7CMIXED&pt=0&slot=1",
+      "network": "coupang",
+      "source": "coupang-api",
+      "status": "active",
+      "keywords": [
+        "노트북 거치대",
+        "노트북 스탠드",
+        "노트북 받침대"
+      ],
+      "collected_at": "2026-09-26",
+      "updated": "2026-09-26"
+    },
+    {
+      "key": "notebook-cooling-pad",
+      "category": "notebook",
+      "label": "에스앤코 게이밍 쿨러 노트북 거치대, 1개",
+      "cta": "노트북 쿨링패드 쿠팡 최저가 확인",
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF5563346&pageKey=8298301497&itemId=23936318922&vendorItemId=90958254578&traceid=V0-153-af6fd64b5550a14e&clickBeacon=dc0c03e0-b93b-11f1-9096-91a16841da77%7E3&requestid=20260926085017059224491491&token=31850C%7CMIXED&pt=1&slot=1",
+      "network": "coupang",
+      "source": "coupang-api",
+      "status": "active",
+      "keywords": [
+        "노트북 쿨링패드",
+        "노트북 쿨러",
+        "게이밍 노트북 쿨링"
+      ],
+      "collected_at": "2026-09-26",
+      "updated": "2026-09-26"
     }
   ],
   "slug_map": {
